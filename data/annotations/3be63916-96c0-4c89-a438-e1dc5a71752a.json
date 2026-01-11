@@ -1125,6 +1125,51 @@
         }
       ],
       "uuid": "0cab5eed-05ec-4ff6-9ef9-12b4dbeb38a2"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A ti na' ma\" Olga Tañón and Plena Libre",
+              "bold": true
+            },
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Olga Tañón",
+          "category": "speaker"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        }
+      ],
+      "uuid": "42106439-f6c8-4e47-aeb1-9d3a4ab59986"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
