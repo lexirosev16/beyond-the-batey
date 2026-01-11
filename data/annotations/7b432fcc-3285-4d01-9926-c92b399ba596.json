@@ -1810,28 +1810,6 @@
         }
       ],
       "uuid": "a7f1bd80-4c87-4bcc-9f4a-eea76c05eb5b"
-    },
-    {
-      "start_time": 3660,
-      "end_time": 3720,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Porque me dicen morena\"",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Porque me dicen morena",
-          "category": "song title"
-        }
-      ],
-      "uuid": "7ed908a4-6bb3-4e08-952f-cd7e52453b37"
     }
   ],
   "set": "Default",
