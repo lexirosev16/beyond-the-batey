@@ -1,5 +1,143 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 30,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barriles (Puerto Rican drum specific to bomba) joins Rauw with the Yuba rhythm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "yubá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "5a002833-8b66-47d3-8d6b-cee681b192a0"
+    },
+    {
+      "start_time": 62,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elder artesian carving coconuts."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "80264776-7acf-4fad-8c1a-a71529fe7623"
+    },
+    {
+      "start_time": 63,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Images of Afro-Puerto Rican food in Loiza shown such as banana leaves. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d868c9a-f7ed-458f-b676-2482dbcfb494"
+    },
+    {
+      "start_time": 95,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pasa Fina. Rauw Alejandro is riding a specific horse that originated in Spain and was imported into Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e91c434c-0146-481d-83d1-3159a8014ba0"
+    },
+    {
+      "start_time": 162,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bomberas dancing on a beach in Loiza, PR. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2bec9437-a4ad-4a3c-a05f-267d25554b7a"
+    },
+    {
+      "start_time": 189,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bomba elder shown"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "18fb89a3-a2d4-40e6-b67b-9a7c62530ca4"
+    },
+    {
+      "start_time": 205,
+      "end_time": 1833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Credits displayed"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c9be0d07-3c36-49c7-8fd9-8a0b72b9d7f1"
+    },
+    {
+      "start_time": 229,
+      "end_time": 230,
+      "annotation": [
+        {
+          "text": "Lyrics to \"Carita Linda\" Rauw Alejandro ",
+          "bold": true
+        },
+        {
+          "text": "\nWow, qué linda tú estás\nYo solo te miro a ti\nLa combinación de tu boca\nCon este tequila a las rocas\nSon mortal pa' mí\nSiento que ya estuve aquí una vez\nNo sé si te pasa lo mismo a ti también\nAmores van, amores vienen\nPero qué más da\nSi al final cada quien merece lo que da\nBajo las estrellas\nLa luna llena\nTú eres mi calma en esta tempestad\nHay caritas lindas que dejan huellas\nY la tuya no se puede borrar\nCómo me gustas tú a mí\nCómo me gustas tú a mí\nQuisiera hablarte de otro tema\nQue con las palabras no puedo decir\n¿Por qué no nos vamos de aquí? (es más)\nPor qué no nos vamos a vivir\nA una casita en la arena y nunca mudarnos de ahí\nDe ahí\n(Cosa nuestra)\nElla baila sola (ella baila sola)\nY yo la veo (y yo la veo)\nTú tienes un swing, tienes un piquete, tú tiene' un meneo\nPonte peligrosa que yo siempre me atrevo (yo siempre me atrevo)\nSi jugamos el juego de quien se enamora, yo pierdo primero\nY vuelvo a caer (no)\nNo me puedo contener (no)\nA tu carita de bandida\nY cómo me miras\nMe pones a delirar (ey)\nCositas a imaginar\nCúcame, mujer\n\"Ee-feh... mee... shee oh... n go-keh\"\nYuba cuembe\nPa' que lo baile usted\nEs una locura amarte desde la primera vez\nDurmiendo a mi lao te quiero todas las noches (Rauw)\nBajo las estrellas\nLa luna llena\nTú eres mi calma en esta tempestad\nHay caritas lindas que dejan huellas\nY la tuya no se puede borrar\nCómo me gustas tú a mí\nCómo me gustas tú a mí\nQuisiera hablarte de otro tema\nQue con las palabras no puedo decir\n¿Por qué no nos vamos de aquí? (es más)\nPor qué no nos vamos a vivir\nA una casita en la arena y nunca mudarnos de ahí\nDe ahí\nAy, mi niña hermosa, yo vine a ver\nComo corre la tormenta, yo vine a ver\nAy, niñita linda, yo vine a ver\nComo corre la tormenta, yo vine a ver\nAhí viene la tormenta, yo vine a ver\nCon la niña hermosa, la quiero ver\nEsas caras bonitas, las vine a ver\nComo corre la tormenta, yo vine a ver\n\n"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Linda",
+          "category": "song title"
+        }
+      ],
+      "uuid": "5d89b42f-0451-4638-84e4-70ba3ff0d7a7"
+    }
+  ],
   "set": "Default",
   "event_id": "cb26fd67-0311-4def-a17d-fad5b3dc4a4a",
   "source_id": "e2bb0dec-e887-4bb7-8ff4-a59f290d73fb"
