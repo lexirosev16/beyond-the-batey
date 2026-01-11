@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Festivals_2024 Magia de los Tambores",
   "slug": "bomba-festivals2024-magia-de-los-tambores",
-  "updated_at": "2026-01-11T21:36:27.549Z",
+  "updated_at": "2026-01-11T21:43:58.457Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "892c478e-d8b9-4897-a4ae-30b9cadf7d47"
-  }
+  },
+  "parent": "ac6b93d3-9676-478e-902c-7e056a4fcbcf"
 }
