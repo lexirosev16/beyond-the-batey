@@ -190,6 +190,27 @@
         }
       ],
       "uuid": "c7e883ec-18bd-4d6c-9efd-b60e521b577f"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "6dd81276-7777-4b8f-a782-432f0a47aa42"
     }
   ],
   "set": "Zafra Fusion Cepeda_Annotations",
