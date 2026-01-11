@@ -530,8 +530,41 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Me da la memoria.\" ",
+              "text": "\"Me da la memoria\"",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me da la memoria "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me da la memoria "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me da la memoria que yo le mandé "
             }
           ]
         }
