@@ -168,6 +168,28 @@
         }
       ],
       "uuid": "3adb0894-42b4-4a38-ad57-513fc266efe9"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La Bomba en Barile\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "c7e883ec-18bd-4d6c-9efd-b60e521b577f"
     }
   ],
   "set": "Zafra Fusion Cepeda_Annotations",
