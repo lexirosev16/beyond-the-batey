@@ -24,6 +24,35 @@
         }
       ],
       "uuid": "314bc427-3b10-45bf-b4bb-3c24d2d13e73"
+    },
+    {
+      "start_time": 300,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sica pa cimmarones "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Loiza"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "5635cc4c-14e7-4fbb-a4e7-caeba090adb1"
     }
   ],
   "set": "2025 Encuentro de Tambores_Annotations",
