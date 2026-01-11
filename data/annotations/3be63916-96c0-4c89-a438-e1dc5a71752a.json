@@ -105,6 +105,96 @@
         }
       ],
       "uuid": "60cde645-6179-44e5-ab7f-aa9476781c4f"
+    },
+    {
+      "start_time": 418,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Negra Triste\". Performed by Ruth Fernandez. ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sad Black Woman"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sad Black woman because the Black man has died because the Black man has slept never again to enjoy the celebration— only the Black woman remains."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She does not stop crying oh her sorrow. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is sad, alone she weeps her grief she weeps her sorrow and her pain."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Black man she loved so deeply is now in the realms of God."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She is heartbroken mourning her love, mourning her Black man, the one she loved so much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "La negra triste",
+          "category": "song title"
+        },
+        {
+          "tag": "La Negra Triste",
+          "category": "song title"
+        },
+        {
+          "tag": "Ruth Fernández",
+          "category": "speaker"
+        },
+        {
+          "tag": "Ruth Fernandez",
+          "category": "speaker"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "72ed262b-7a10-43cd-8f73-d5be2c69095a"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
