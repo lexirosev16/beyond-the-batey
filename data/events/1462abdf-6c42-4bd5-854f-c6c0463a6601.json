@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "702ad805-ea18-4b37-9350-099659c5e986": {
-      "label": "\"Huracan\" Esoterica Tropical",
+      "label": "Huracan Esotérica Tropical",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/4Iiyicb0n6w?si=heP6ELVwz4ZeMVzu",
@@ -9,114 +9,6 @@
       "set_sort": [],
       "duration_overridden": true,
       "duration": 260
-    },
-    "f1a9a382-1c34-4e35-bfce-05bcd13e5ff7": {
-      "label": "\"Carita Linda\" Rauw Alejandro",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/OajhPIFvusk?si=GLWh-Dyuf5I7dIxW",
-      "duration": 235,
-      "caption_set": [
-        {
-          "annotation_page_id": "4ac36d7e-5545-449b-b59b-12a1685230d0"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "6b508f6c-f815-4597-826a-19bbff3c9644": {
-      "label": "\"Besito en la frente\" Rauw Alejandro",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/3Mu5JDfhivI?si=TSxiKsgkKQmg-nrl",
-      "duration": 382,
-      "caption_set": [
-        {
-          "annotation_page_id": "28dd2b13-c178-415a-aecd-1702e857bf1b"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "faced46f-6d37-4cec-988c-602c1c98f695": {
-      "label": "\"Majestad Negra\" Johanny Navarro",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/tUVPs30C5ow",
-      "duration": 260,
-      "caption_set": [
-        {
-          "annotation_page_id": "96034a29-f016-4774-9ce5-54c0be648316"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "9339fa99-0393-41f9-be18-468ce54a8cc8": {
-      "label": "\"Suite Bombastica para arpa y cello\" Johanny Navarro",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/AXWCrQtq2gA?si=79vS1EQVh4iqcQbP",
-      "duration": 830,
-      "caption_set": [
-        {
-          "annotation_page_id": "5bce9928-60f9-4291-af96-76d8c601871b"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "df09c10b-a67c-4482-95eb-c0ba3972d5bc": {
-      "label": "\"This is not America\" Residente",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/GK87AKIPyZY?si=663FSo6E3jldtRYY",
-      "duration": 249,
-      "caption_set": [
-        {
-          "annotation_page_id": "2ecb06d2-3111-4dbb-89b3-b2872fd08fea"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "8695a0b9-47e1-4a58-ba0a-0d57f2de8375": {
-      "label": "\"Cancion Sin Miedo\" by Barrileras del 8m",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/XpIHH_jShcI?si=TLQsgpwChZI5i8aF",
-      "duration": 360,
-      "caption_set": [
-        {
-          "annotation_page_id": "e274362e-f88c-4021-a9f5-98ff41c2fdbd"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "fd17dfd0-6767-496c-a58c-b36b818dbcae": {
-      "label": "\"Cultura\" Puya",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/oF6vOOANfFI",
-      "duration": 272,
-      "caption_set": [
-        {
-          "annotation_page_id": "648ccb26-2a74-4ec3-aec6-63e9c51d02e4"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "e3fef8d2-4d32-4c42-85b9-6b713ae4fe32": {
-      "label": "\"Bomba Sinfronica\" William Cepeda",
-      "is_offline": false,
-      "file_url": "https://www.youtube.com/watch?v=4J3vzmQZA7Q",
-      "duration": 87,
-      "caption_set": [],
-      "set_sort": [],
-      "file_type": "Audio",
-      "duration_overridden": true
     }
   },
   "auto_generate_web_page": true,
@@ -131,20 +23,12 @@
     }
   ],
   "citation": "",
-  "label": "Bomba in Commercial Music Videos",
+  "label": "\"Huracan\" Esoterica Tropical",
   "av_file_order": [
-    "702ad805-ea18-4b37-9350-099659c5e986",
-    "f1a9a382-1c34-4e35-bfce-05bcd13e5ff7",
-    "6b508f6c-f815-4597-826a-19bbff3c9644",
-    "faced46f-6d37-4cec-988c-602c1c98f695",
-    "9339fa99-0393-41f9-be18-468ce54a8cc8",
-    "df09c10b-a67c-4482-95eb-c0ba3972d5bc",
-    "8695a0b9-47e1-4a58-ba0a-0d57f2de8375",
-    "fd17dfd0-6767-496c-a58c-b36b818dbcae",
-    "e3fef8d2-4d32-4c42-85b9-6b713ae4fe32"
+    "702ad805-ea18-4b37-9350-099659c5e986"
   ],
   "created_at": "2026-01-04T06:47:59.103Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-07T08:57:03.225Z",
+  "updated_at": "2026-01-11T21:58:46.557Z",
   "updated_by": "lexirosev16"
 }
