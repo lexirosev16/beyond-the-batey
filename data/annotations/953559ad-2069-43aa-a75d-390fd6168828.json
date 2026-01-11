@@ -782,6 +782,10 @@
         {
           "tag": "salsa",
           "category": "genre"
+        },
+        {
+          "tag": "Olga Tañón",
+          "category": "speaker"
         }
       ],
       "uuid": "a829cf51-4a72-4554-b7f9-2d7df6c7f272"
