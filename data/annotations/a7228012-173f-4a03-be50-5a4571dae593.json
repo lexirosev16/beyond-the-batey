@@ -32,6 +32,35 @@
         }
       ],
       "uuid": "1bd335aa-9a9a-4342-be59-94da71f84777"
+    },
+    {
+      "start_time": 790,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zafra "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "65a72ef3-cefb-4e49-9775-2233de51c52a"
     }
   ],
   "set": "Default",
