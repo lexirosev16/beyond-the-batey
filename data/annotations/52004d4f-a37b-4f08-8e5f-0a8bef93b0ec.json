@@ -1,31 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 187,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Don Rafael Cepeda Atiles",
-          "category": "speaker"
-        },
-        {
-          "tag": "Petra Cededa",
-          "category": "speaker"
-        }
-      ],
-      "uuid": "fc4e68ff-3262-48bd-8662-8126a9130f7b"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "ccec29bf-dc79-4c78-a244-b623c92c0567",
   "source_id": "a3cd73fb-ccf2-40f3-9169-549dbed3f3eb"
