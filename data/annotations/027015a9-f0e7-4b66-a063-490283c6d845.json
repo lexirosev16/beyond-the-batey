@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Zafra Fusion Cepeda_Annotations","event_id":"ccec29bf-dc79-4c78-a244-b623c92c0567","source_id":"6f7abdbe-9cea-43a3-b682-3d82b1df5226"}
+{
+  "annotations": [
+    {
+      "start_time": 645,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luis Palos Matos introduced Don Rafael Cepeda Atiles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "e0c8b831-4b75-433a-bb2d-0aa0b613c4b5"
+    }
+  ],
+  "set": "Zafra Fusion Cepeda_Annotations",
+  "event_id": "ccec29bf-dc79-4c78-a244-b623c92c0567",
+  "source_id": "6f7abdbe-9cea-43a3-b682-3d82b1df5226"
+}
