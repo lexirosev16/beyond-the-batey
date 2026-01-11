@@ -285,6 +285,118 @@
         }
       ],
       "uuid": "4c684912-4649-4b7e-8d53-3276c503090f"
+    },
+    {
+      "start_time": 535,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Cachón says Elena” (Leró)",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cachón says Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cachón says Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, Cachón says Elena that she's going to look for protection to shield herself"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verses",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When she passes through Guayanilla"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When she comes back and travels"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She's going to look for protection to shield herself."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cachón Says Elena\" first features a 1950s recording of early bomba, which transitions into a professional commercial recording by Nelie Robles Lebrón and Paracumbé from 1997."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nellie Lebrón y Paracumbe",
+          "category": "speaker"
+        },
+        {
+          "tag": "Nellie LeBrón y Paracumbé",
+          "category": "speaker"
+        },
+        {
+          "category": "song title",
+          "tag": "Cachón dice Elena"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "ebb83f40-1e79-4c94-bd3e-1b0cf4a2ce6f"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
