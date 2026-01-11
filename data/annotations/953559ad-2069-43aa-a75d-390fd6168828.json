@@ -740,7 +740,20 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Tanta Vanidad\" (Manati) and \"Plena Libre\""
+              "text": "\"Tanta Vanidad\" (Manati) performed by Plena Libre",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nTanta vanidad (tanta vanidad)\nTanta hipocresía\nSi tu cuerpo después de muerto\nPertenece a la tumba fría\nTanta vanidad (tanta vanidad)\nTanta hipocresía\nSi tu cuerpo después de muerto\nPertenece a la tumba fría"
             }
           ]
         }
@@ -748,10 +761,6 @@
       "tags": [
         {
           "tag": "fusion",
-          "category": "genre"
-        },
-        {
-          "tag": "salsa",
           "category": "genre"
         },
         {
@@ -768,6 +777,10 @@
         },
         {
           "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "salsa",
           "category": "genre"
         }
       ],
