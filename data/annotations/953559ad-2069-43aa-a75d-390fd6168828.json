@@ -66,29 +66,12 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "A flamenco singer accompanies images and text that state  “La bomba y la plena son productos de fusiones musicales de la taína la española y la africana un ir y venir de influencias. Esta influencia afectaría toda la vida de esta isla.” Musical lyrics are mostly unintelligible during this segment. "
+              "text": "A singer sings a segment in an unidentified African or Creole dialect. "
             }
           ]
         }
       ],
-      "tags": [
-        {
-          "tag": "palmas",
-          "category": "instrumentation"
-        },
-        {
-          "tag": "guitar",
-          "category": "instrumentation"
-        },
-        {
-          "tag": "salsa",
-          "category": "genre"
-        },
-        {
-          "tag": "transcription",
-          "category": "analysis"
-        }
-      ],
+      "tags": [],
       "uuid": "9f102071-58e6-4c03-8a2b-f5390fb3d6f1"
     },
     {
