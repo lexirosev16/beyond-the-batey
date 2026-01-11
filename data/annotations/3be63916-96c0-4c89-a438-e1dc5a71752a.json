@@ -862,6 +862,121 @@
         }
       ],
       "uuid": "ba7ad200-2349-4cfe-b642-43b53403e6fb"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"So Much Vanity\" (Manati) performed by Plena Libre",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So much vanity (so much vanity)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So much hypocrisy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If your body after death"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Belongs to the cold grave"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So much vanity (so much vanity)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So much hypocrisy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If your body after death"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Belongs to the cold grave"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Tanta vanidad",
+          "category": "song title"
+        },
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        }
+      ],
+      "uuid": "30c9ca2b-6285-4b8c-83ea-200f0ef27b4b"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
