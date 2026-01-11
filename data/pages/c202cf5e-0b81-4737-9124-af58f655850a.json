@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Films_ Zafra Fusion Cepeda",
   "slug": "bomba-films-zafra-fusion-cepeda",
-  "updated_at": "2026-01-07T08:13:14.836Z",
+  "updated_at": "2026-01-11T21:23:23.363Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "ccec29bf-dc79-4c78-a244-b623c92c0567"
-  }
+  },
+  "parent": "017c6169-228f-45c0-b99e-3167293f4acf"
 }
