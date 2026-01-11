@@ -625,7 +625,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Temporal temporal allá viene el temporal\nTemporal temporal allá viene el temporal\nQué será de mi borinquen cuando llegue el temporal\nQué será de Puerto Rico cuando llegue el temporal"
+              "text": "Temporal temporal allá viene el temporal\nTemporal temporal allá viene el temporal\n"
+            },
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Qué será de Puerto Rico cuando llegue el temporal\nQué será de mi borinquen cuando llegue el temporal\n"
             }
           ]
         }
@@ -638,6 +650,10 @@
         {
           "tag": "Temporal",
           "category": "song title"
+        },
+        {
+          "tag": "disaster",
+          "category": "analysis"
         }
       ],
       "uuid": "50367c9a-1a52-427e-b734-acc5e2cb654e"
