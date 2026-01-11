@@ -20,6 +20,158 @@
         }
       ],
       "uuid": "e0c8b831-4b75-433a-bb2d-0aa0b613c4b5"
+    },
+    {
+      "start_time": 688,
+      "end_time": 780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Anaiso\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anaiso "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay le "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay he "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anaiso bie"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay anaiso sesa congolare"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congrue ay anaiso bie "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iso coco mi Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congrue ay anaiso bie"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay cuando yo estaba enfermo nadie me vino "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a ver congrue ay anaiso bie "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ay me voy desde Guyama salgo pa "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mayaguez congrue ay anaiso bie "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Anaiso",
+          "category": "song title"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "3adb0894-42b4-4a38-ad57-513fc266efe9"
     }
   ],
   "set": "Zafra Fusion Cepeda_Annotations",
