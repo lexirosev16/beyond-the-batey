@@ -363,6 +363,58 @@
         }
       ],
       "uuid": "4a923b5d-e91b-4a35-9b13-064719eecc6b"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La boru cana\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "f58ad643-19d1-491b-b712-bdaba29f8805"
     }
   ],
   "set": "Zafra Fusion Cepeda 4_Annotations",
