@@ -2749,7 +2749,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Oí una voz divina de cielo que me llamó"
+              "text": "Oí una voz divina del cielo que me llamó"
             }
           ]
         },
@@ -2759,6 +2759,70 @@
             {
               "text": "Versos",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una voz divina del cielo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aqui estoy yo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como dice lo que toca "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo me tocas el mulato "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "dice mulato"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "me llamó"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eh, me llamó"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eh, me llamó"
             }
           ]
         }
