@@ -76,6 +76,14 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "No dejes morir de hambre"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "text": "los pobres "
             }
           ]
@@ -141,6 +149,10 @@
         {
           "tag": "Don Rafael Cepeda Atiles",
           "category": "speaker"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
         }
       ],
       "uuid": "65a72ef3-cefb-4e49-9775-2233de51c52a"
