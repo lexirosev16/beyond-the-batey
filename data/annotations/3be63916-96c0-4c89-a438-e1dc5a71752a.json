@@ -664,6 +664,204 @@
         }
       ],
       "uuid": "3c707323-c387-41a7-b2f2-53a6cd7bf285"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"False Baquine Song\" performed by Julio Axel Ladrón. Written by Luis Palos Matos.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now he will see the beach "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now he will see the palm grove"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now before the great fire with Tembandumbá"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He will be able to dance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now he will see the beach"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now he will see the palm grove"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But now before the great fire with Tembandumbá"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He will be able to dance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With Tembandumbá"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He will be able to dance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With Tembandumbá"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to Guinea his zombie flies "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coquí, cocó, cucú, cacá "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bombo, the great mongo, beneath the jungle"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His tender steps will lead"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neither white shadow on the grass"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nor black sorcerer will hinder him"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bombo, the great mongo, beneath the jungle"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His tender steps will lead"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His tender steps will lead"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His tender steps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        },
+        {
+          "tag": "La falsa baquine",
+          "category": "song title"
+        }
+      ],
+      "uuid": "ba7ad200-2349-4cfe-b642-43b53403e6fb"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
