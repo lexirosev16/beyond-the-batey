@@ -2893,6 +2893,27 @@
         }
       ],
       "uuid": "e28ed1f4-23d1-4647-b433-33954e03f3af"
+    },
+    {
+      "start_time": 815,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of the origins and history of plena in Ponce."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
+      "uuid": "735aafb7-b370-44f4-859a-878296eb0a0f"
     }
   ],
   "set": "Bomba Films_Raices_Spanish",
