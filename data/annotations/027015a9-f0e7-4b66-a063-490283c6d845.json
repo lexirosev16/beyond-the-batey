@@ -211,6 +211,28 @@
         }
       ],
       "uuid": "6dd81276-7777-4b8f-a782-432f0a47aa42"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Otonono barrile\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Otonono barrile",
+          "category": "song title"
+        }
+      ],
+      "uuid": "0d568a51-c84f-4244-8b4f-3bfc8ef4c34f"
     }
   ],
   "set": "Zafra Fusion Cepeda_Annotations",
