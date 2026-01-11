@@ -623,6 +623,47 @@
         }
       ],
       "uuid": "83492402-c681-45be-a42e-d4986560b6b1"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps over a reggae rhythm and electric guitar. It's time for a change of pace, and I present myself on the scene with my rhymes, the plena genre as a chronicle that narrates what the neighborhood truly breathes, it's melodic journalism, fantastic stories in reality from the slum, its poverty and its musicians, stories of events, rustic punishments, events passed down from generation to generation, giving monotony a new course of action."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Welmo E. Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "category": "speaker",
+          "tag": "Welmo E Romero Joseph"
+        },
+        {
+          "tag": "reggae",
+          "category": "genre"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "3c707323-c387-41a7-b2f2-53a6cd7bf285"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
