@@ -1,1 +1,32 @@
-{"annotations":[],"set":"2025 Encuentro de Tambores_Annotations","event_id":"61328fdd-bda2-4c05-8917-ac2ad5b8270b","source_id":"d9996e91-8244-46f1-a836-7431659c10fc"}
+{
+  "annotations": [
+    {
+      "start_time": 2310,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "category": "genre",
+          "tag": "holandé"
+        }
+      ],
+      "uuid": "314bc427-3b10-45bf-b4bb-3c24d2d13e73"
+    }
+  ],
+  "set": "2025 Encuentro de Tambores_Annotations",
+  "event_id": "61328fdd-bda2-4c05-8917-ac2ad5b8270b",
+  "source_id": "d9996e91-8244-46f1-a836-7431659c10fc"
+}
