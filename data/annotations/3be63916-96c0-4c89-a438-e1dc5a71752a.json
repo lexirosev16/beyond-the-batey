@@ -518,6 +518,27 @@
         }
       ],
       "uuid": "5de3dc2b-b106-4c9e-9211-f227014f8c1a"
+    },
+    {
+      "start_time": 836,
+      "end_time": 842,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ramón M. Gomez. This is the famous story of this couple who came from the Lesser Antilles and settled in Ponce. It's about a woman named Ana and how they started playing music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
+      "uuid": "54e66e90-63c6-4cec-86b9-58fbdcdd6582"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
