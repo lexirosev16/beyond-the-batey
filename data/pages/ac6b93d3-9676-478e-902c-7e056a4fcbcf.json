@@ -4,7 +4,77 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Bomba Festivals  ",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Background: ",
+          "bold": true
+        },
+        {
+          "text": "Festivals featuring bomba are common in Puerto Rico and the diaspora. The most well-known bomba set of annual bomba festivals in Puerto Rico is called Los Encuentro de Tambores and Los Encuentros de Cantaoras. The festival was founded by folklorist Norma Salazar in 2009, and is now co‑directed by Marien Torres of Taller Tambuyé. The Encuentro de Tambores features over three hundred bomba players and practitioners from various delegations. These include eight delegations divided by geography: Oeste, Norte, Este, Sur, Loíza, Carolinas, Cangrejos, and the diaspora. The Encuentro de Cantaoras begin after the Encuentro de Tambores. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Significance: ",
+          "bold": true
+        },
+        {
+          "text": "What is particularly interesting about these festivals is that many of the songs performed are either premiered for the first time or composed specifically for the festival. The Enceuntros usually takes place in late March. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Content ",
+          "bold": true
+        },
+        {
+          "text": "\nI specifically focus on the following years: 2018, 2022, 2024, 2025. The 2022 Encuentro de Tambores was filmed by the Institute of Puerto Rican Culture and broadcast on local television. Other festivals featured in this audiovisual annotation set include La Magia de los Tambores, an annual festival organized by the Familia Cepeda of La Escuela de Bomba y Plena Tata Cepeda. It was co‑founded by Bárbara and Margarita “Tata” Cepeda. Another festival included here is La SanSe, which corresponds with the San Sebastián Street Festivals that occur in Puerto Rico, and in the diaspora (Orlando, Miami). This section of the site does not yet have annotations, but La SanSe is performed annually during late January. \n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -17,6 +87,6 @@
   "slug": "bomba-festivals",
   "created_at": "2026-01-11T21:43:03.573Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-11T21:44:32.048Z",
+  "updated_at": "2026-01-11T22:10:40.188Z",
   "updated_by": "lexirosev16"
 }
