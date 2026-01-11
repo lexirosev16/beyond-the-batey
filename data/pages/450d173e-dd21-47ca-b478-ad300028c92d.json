@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Festivals_2018 Encuentro de Tambores",
   "slug": "bomba-festivals2018-encuentro-de-tambores",
-  "updated_at": "2026-01-07T08:13:09.924Z",
+  "updated_at": "2026-01-11T21:44:11.614Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "61328fdd-bda2-4c05-8917-ac2ad5b8270b"
-  }
+  },
+  "parent": "ac6b93d3-9676-478e-902c-7e056a4fcbcf"
 }
