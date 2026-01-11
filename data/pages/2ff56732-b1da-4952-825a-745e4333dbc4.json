@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Festivals_2022 Encuentro de Tambores ICP",
   "slug": "bomba-festivals2022-encuentro-de-tambores-ic",
-  "updated_at": "2026-01-11T21:29:12.304Z",
+  "updated_at": "2026-01-11T21:43:35.607Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "86dcc0b4-bb95-4f76-aebb-97413c323f51"
-  }
+  },
+  "parent": "ac6b93d3-9676-478e-902c-7e056a4fcbcf"
 }
