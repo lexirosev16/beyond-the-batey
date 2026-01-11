@@ -3027,6 +3027,40 @@
         }
       ],
       "uuid": "412573e2-e201-4216-adb5-cc11688a0623"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A ti na' ma\" Olga Tanon and Plena Libre",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Olga Tañón",
+          "category": "speaker"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        }
+      ],
+      "uuid": "ee61191b-9a52-489b-9750-13319b57bb01"
     }
   ],
   "set": "Bomba Films_Raices_Spanish",
