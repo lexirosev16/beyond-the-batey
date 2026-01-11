@@ -733,14 +733,14 @@
       "uuid": "e925b97e-85c1-470d-a0f7-32a19ac18f75"
     },
     {
-      "start_time": 1276,
+      "start_time": 1275,
       "end_time": 1327,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Plena Libre"
+              "text": "\"Plena Libre\""
             }
           ]
         }
@@ -757,6 +757,14 @@
         {
           "tag": "plena",
           "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "tag": "Tanta vanidad",
+          "category": "song title"
         }
       ],
       "uuid": "a829cf51-4a72-4554-b7f9-2d7df6c7f272"
