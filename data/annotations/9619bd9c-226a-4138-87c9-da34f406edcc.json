@@ -8,12 +8,49 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\nLa bomba no es solo música\nes la tierra hecha sonido\nun latido que llegó de África\ny floreció en Puerto Rico\nUn diálogo entre tambor cuerpo y la voz colectiva\ncada paso y cada golpe en el tambor\nnos recuerda que estamos conectados\ncon el pasado y con el futuro\nUna tradición nacida de la resistencia\nque hoy sigue siendo una celebración de la libertad\nCada pueblo de Puerto Rico\nexpresa la bomba a su manera\nLos ritmos laten en la arena\nun diálogo improvisado donde el cuerpo ordena\ny la música obedece\nLos ritmos se mezclan con el carnaval\ny la energía del pueblo\nLos vejigantes, mitad enigmáticos\ntallados por artesanos y pintados con colores vibrantes,\nno son disfraces,\nson espíritus del Caribe\nDespiertan la memoria ancestral de nuestro pueblo,\nson guardianes de la cultura,\nsímbolos de resistencia que encarnan\nla eterna batalla contra lo oscuro\nEn cada máscara arde la fuerza de un pueblo\nque transforma el miedo en poder\ny la lucha en celebración\nEl baile de bomba es fuerza tensión y libertad\nLa bomba es unión\nune a pueblos y a generaciones,\norgullo cultural afro-boricua\nCuando el ritmo llama\ntoda la comunidad responde\n\n"
+              "text": "Bomba is not only music. It is the earth made sound. A heartbeat that came from Africa, and flourished in Puerto Rico."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A dialogue between drum, body, and the collective voice. Every step, and every beat of the drum reminds us that we are connected to the past and to the future. A tradition born of resistance that today remains a celebration of freedom. Each town in Puerto Rico expresses bomba in its own way. The rhythms pulsate on the sand an improvised dialogue where the body commands and the music obeys. The rhythms blend with the Carnival, and the energy of the people. The vejigantes, half-enigmatic figures carved by artisans and painted with vibrant colors, are not costumes, they are spirits of the Caribbean. They awaken the ancestral memory of our people. They are cultural guardians, symbols of resistance that embody the eternal battle against darkness. In each mask burns the strength of a people that transforms fear into power, and struggle into celebration. Dancing bomba is strength, tension, and freedom. Bomba is unity, it unites towns and generations, Afro-Puerto Rican cultural pride. When the rhythm calls, the entire community responds. "
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Rauw Alejandro",
+          "category": "speaker"
+        },
+        {
+          "tag": "Besito en la frente",
+          "category": "song title"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
       "uuid": "9adc2fd8-e644-41c7-b211-37243be092e5"
     }
   ],
