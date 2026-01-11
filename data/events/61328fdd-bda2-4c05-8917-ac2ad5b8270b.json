@@ -1,21 +1,7 @@
 {
   "audiovisual_files": {
-    "0652271f-8b64-42d4-88af-ce73ad200ebb": {
-      "label": "2022 Encuentro de Tambores",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://www.youtube.com/live/f355p8sBuYw?si=WajHURvDGxJvS35j",
-      "duration": 10739,
-      "caption_set": [
-        {
-          "annotation_page_id": "19f0ad20-7f25-4f78-b125-a241ea6862e9"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
     "2bc3c569-475c-4b80-b6c1-25578af61517": {
-      "label": "2018 Encuentro de Tambores",
+      "label": "Encuentro de Tambores",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/rrwRJwRz6k0?si=pF--LhxrxHGQO1jG",
@@ -26,90 +12,6 @@
         }
       ],
       "set_sort": [],
-      "duration_overridden": true
-    },
-    "75d48a1a-da73-4668-8024-cf985e1da7df": {
-      "label": "2022 ICP Encuentro de Tambores",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/mW_s_EKzxSc?si=a4m-dKAitHkUFKkK",
-      "duration": 2517,
-      "caption_set": [
-        {
-          "annotation_page_id": "5bcb211d-51c4-4e90-af70-d9e1460997cf"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "3aa650a3-4328-4511-a046-6821f95ab8ee": {
-      "label": "2024 Magia de Los Tambores",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://www.youtube.com/live/LvBxHqv_np4?si=m6MeYJvnhSPXIjXj",
-      "duration": 3460,
-      "caption_set": [
-        {
-          "annotation_page_id": "4ef1ff3f-649d-4c32-b20e-20021653f85e"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "8afa4d64-18c2-4419-9b9f-ec2b896f608e": {
-      "label": "2021 Encuentro de Cantaoras",
-      "is_offline": false,
-      "file_url": "https://youtu.be/2iNpSWPfnNw?si=mgCrUdkXGFkHRXJE",
-      "duration": 1103,
-      "caption_set": [
-        {
-          "annotation_page_id": "e0bc4a55-4020-4662-a1fb-a87a1f9a0fc7"
-        }
-      ],
-      "set_sort": [],
-      "file_type": "Video",
-      "duration_overridden": true
-    },
-    "7be7d513-84aa-4a53-a8ec-dab0c938f3c4": {
-      "label": "2025 Encuentro de Cantaoras",
-      "is_offline": false,
-      "file_url": "https://youtu.be/DdoWHTWy-DQ?si=QofcmCqYmpqJcE4F",
-      "duration": 4811,
-      "caption_set": [
-        {
-          "annotation_page_id": "674d33ad-6d08-48aa-a08a-06216ae2ad7b"
-        }
-      ],
-      "set_sort": [],
-      "file_type": "Video",
-      "duration_overridden": true
-    },
-    "52877805-37cd-4986-89ca-b961cd0b5373": {
-      "label": "2024 Encuentro de Cantaoras",
-      "is_offline": false,
-      "file_url": "https://youtu.be/IPOnmfXV3Eg?si=hL6zaP3Bmpd_Y3E0",
-      "duration": 3900,
-      "caption_set": [
-        {
-          "annotation_page_id": "65b60a22-b9eb-4e03-95bd-8eaa4f9e233b"
-        }
-      ],
-      "set_sort": [],
-      "file_type": "Video",
-      "duration_overridden": true
-    },
-    "27b37046-a15e-4d8d-9bb7-a1cd0ff99b1d": {
-      "label": "2024 Encuentro de los Tambores",
-      "is_offline": false,
-      "file_url": "https://www.youtube.com/live/ZqLneQr250k?si=4z810aDCLRuIY5lK",
-      "duration": 14596,
-      "caption_set": [
-        {
-          "annotation_page_id": "8f0400de-ebd3-44db-85e5-8b289ba331b2"
-        }
-      ],
-      "set_sort": [],
-      "file_type": "Video",
       "duration_overridden": true
     }
   },
@@ -125,19 +27,12 @@
     }
   ],
   "citation": "",
-  "label": "Bomba Festivals",
+  "label": "Bomba Festivals_2018 Encuentro de Tambores",
   "av_file_order": [
-    "2bc3c569-475c-4b80-b6c1-25578af61517",
-    "0652271f-8b64-42d4-88af-ce73ad200ebb",
-    "75d48a1a-da73-4668-8024-cf985e1da7df",
-    "27b37046-a15e-4d8d-9bb7-a1cd0ff99b1d",
-    "8afa4d64-18c2-4419-9b9f-ec2b896f608e",
-    "3aa650a3-4328-4511-a046-6821f95ab8ee",
-    "52877805-37cd-4986-89ca-b961cd0b5373",
-    "7be7d513-84aa-4a53-a8ec-dab0c938f3c4"
+    "2bc3c569-475c-4b80-b6c1-25578af61517"
   ],
   "created_at": "2026-01-04T06:39:25.404Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-11T03:51:53.890Z",
+  "updated_at": "2026-01-11T21:42:33.108Z",
   "updated_by": "lexirosev16"
 }
