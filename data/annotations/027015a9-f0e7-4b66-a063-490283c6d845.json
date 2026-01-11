@@ -79,7 +79,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Versos"
+              "text": "Versos",
+              "bold": true
             }
           ]
         },
@@ -87,7 +88,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay anaiso sesa congolare"
+              "text": "Ay anaiso sesá Congolaré"
             }
           ]
         },
@@ -95,7 +96,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Congrue ay anaiso bie "
+              "text": "Congrué ay anaiso bie "
             }
           ]
         },
@@ -111,7 +112,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Congrue ay anaiso bie"
+              "text": "Congrué ay anaiso bie"
             }
           ]
         },
@@ -127,7 +128,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "a ver congrue ay anaiso bie "
+              "text": "A ver Congrué ay anaiso bie "
             }
           ]
         },
@@ -135,7 +136,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "ay me voy desde Guyama salgo pa "
+              "text": "Ay me voy desde Guyama salgo pa "
             }
           ]
         },
@@ -143,16 +144,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mayaguez congrue ay anaiso bie "
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "bold": true,
-              "text": ""
+              "text": "Mayaguez Congrue ay anaiso bie "
             }
           ]
         }
