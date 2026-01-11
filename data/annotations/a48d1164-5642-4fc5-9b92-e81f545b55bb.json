@@ -15,6 +15,78 @@
       ],
       "tags": [],
       "uuid": "339d312b-06a1-43ed-b931-3b389ea7ad34"
+    },
+    {
+      "start_time": 28,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"En la hacienda Caridad\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la hacienda Caridad se baila bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la hacienda Caridad se baila bomba de verdad"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "En la hacienda de Caridad",
+          "category": "song title"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "6d1768eb-0ce8-4bd0-8bf6-0bb92c5e5556"
     }
   ],
   "set": "Zafra Fusion Cepeda 5_Annotations",
