@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "\"Carita Linda\" Rauw Alejandro",
   "slug": "carita-linda-rauw-alejandro-2",
-  "updated_at": "2026-01-11T21:49:59.053Z",
+  "updated_at": "2026-01-11T22:08:34.580Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "cb26fd67-0311-4def-a17d-fad5b3dc4a4a"
-  }
+  },
+  "parent": "ab93917a-0938-4723-b49b-697454f7b812"
 }
