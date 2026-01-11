@@ -110,6 +110,22 @@
       ],
       "tags": [],
       "uuid": "20c3e71a-030e-4444-bb26-c492fb5abaac"
+    },
+    {
+      "start_time": 1818,
+      "end_time": 1820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce754192-1c35-4fc9-b03a-bae420088613"
     }
   ],
   "set": "2025 Encuentro de Tambores_Annotations",
