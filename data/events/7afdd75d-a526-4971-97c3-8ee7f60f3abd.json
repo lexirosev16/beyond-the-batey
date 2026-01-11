@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "ff4c447c-ff77-40cb-a5e7-da332dafa47f": {
+      "label": "Resistimos",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/01zKwBU4nAw?si=FCAGfIhzw32inRCd",
+      "duration": 3658,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Bomba Films_Raices",
+  "av_file_order": [
+    "ff4c447c-ff77-40cb-a5e7-da332dafa47f"
+  ],
+  "created_at": "2026-01-11T21:17:31.172Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-01-11T21:17:31.172Z",
+  "updated_by": "lexirosev16"
+}
