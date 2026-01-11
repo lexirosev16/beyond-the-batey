@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Films_Resistimos",
   "slug": "bomba-filmsresistimos",
-  "updated_at": "2026-01-11T21:17:32.026Z",
+  "updated_at": "2026-01-11T21:23:32.795Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "7afdd75d-a526-4971-97c3-8ee7f60f3abd"
-  }
+  },
+  "parent": "017c6169-228f-45c0-b99e-3167293f4acf"
 }
