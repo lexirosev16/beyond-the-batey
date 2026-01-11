@@ -740,7 +740,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Plena Libre\""
+              "text": "\"Tanta Vanidad\" (Manati) and \"Plena Libre\""
             }
           ]
         }
@@ -765,6 +765,10 @@
         {
           "tag": "Tanta vanidad",
           "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "a829cf51-4a72-4554-b7f9-2d7df6c7f272"
