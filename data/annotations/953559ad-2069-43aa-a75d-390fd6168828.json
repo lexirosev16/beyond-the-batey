@@ -209,7 +209,63 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ruth Fernandez sings Negra triste. A song which discusses a Black woman who loses her love and suffers due to this loss. Ya Negro Murió or Negra Triste (Aguadilla)Negra triste porque ya el negro murió porque ya el negro durmió mas nunca va a disfrutar el guateque— solo quedó la negra.La negra no cesa de llorar ¡ay su dolor! Negra está triste negra sola llora su pena llora su pena y su dolor.El negro que tanto quiso está en los reinos de Dios. Negra está triste está llorando su amor está llorando a su negro su negro que tanto amó.English Translation  bSad Black WomanSad Black woman because the Black man has died because the Black man has slept never again to enjoy the celebration— only the Black woman remains.She does not stop crying oh her sorrow. She is sad alone she weeps her grief she weeps her sorrow and her pain.The Black man she loved so deeply is now in the realms of God. She is heartbroken mourning her love mourning her Black man the one she loved so much."
+              "text": "Ruth Fernandez sings "
+            },
+            {
+              "text": "\"Negra triste\".",
+              "bold": true
+            },
+            {
+              "text": " A song which discusses a Black woman who loses her love and suffers due to this loss. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya Negro Murió or \"Negra Triste\" (Aguadilla)",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Negra triste porque ya el negro murió porque ya el negro durmió mas nunca va a disfrutar el guateque— solo quedó la negra."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La negra no cesa de llorar ¡ay su dolor! "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Negra está triste negra sola llora su pena llora su pena y su dolor."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El negro que tanto quiso está en los reinos de Dios. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Negra está triste está llorando su amor está llorando a su negro su negro que tanto amó."
             }
           ]
         }
@@ -222,6 +278,14 @@
         {
           "tag": "Ruth Fernández",
           "category": "speaker"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
         }
       ],
       "uuid": "f352a331-820a-4012-9b9c-ee0e53597dd4"
