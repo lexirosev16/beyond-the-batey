@@ -128,6 +128,27 @@
         }
       ],
       "uuid": "05a219ef-716f-4639-b0f8-d517390547ca"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
+      "uuid": "7b027798-54e2-47bf-adb4-4d67ed1badc3"
     }
   ],
   "set": "Default",
