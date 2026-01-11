@@ -368,7 +368,82 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Cachón dice Elena” (Lero) Cachón dice Elena. Cachón dice Elena. Ay Cachón dice Elena que va a buscar la contra pa resguardarse. Cuando pase por Guayanilla. Que venga de vuelta y viaje. Va a buscar la contra pa resguardarse. \"Cachon dice Elena\" first features a 1950s recording of early bomba which transitions into a professional commercial recording by Nelie Robles Lebron y Paracumbé from 1997. "
+              "text": "“Cachón dice Elena” (Leró) ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cachón dice Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cachón dice Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, cachón dice Elena que va a buscar la contra pa' resguardarse"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando pase por Guayanilla"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que venga de vuelta y viaje"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Va a buscar la contra pa' resguardarse. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cachon dice Elena\" first features a 1950s recording of early bomba which transitions into a professional commercial recording by Nelie Robles Lebrón y Paracumbé from 1997. "
             }
           ]
         }
@@ -385,6 +460,10 @@
         {
           "category": "song title",
           "tag": "Cachón dice Elena"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
         }
       ],
       "uuid": "d3c78ca5-dc7c-4ee5-8b24-2ed28cdfe686"
