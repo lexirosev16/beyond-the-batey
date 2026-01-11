@@ -179,6 +179,58 @@
         }
       ],
       "uuid": "4a9c8110-8492-4264-8e56-0e0f8552e418"
+    },
+    {
+      "start_time": 357,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Son más divina\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son son más divina "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "Son mas divina",
+          "category": "song title"
+        }
+      ],
+      "uuid": "532651a0-8b33-4aee-a26a-9230050be6f2"
     }
   ],
   "set": "Zafra Fusion Cepeda 4_Annotations",
