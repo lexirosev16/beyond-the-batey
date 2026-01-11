@@ -82,7 +82,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\nA flamenco singer known as Olgan Tanon accompanies images and text that state  “La bomba y la plena son productos de fusiones musicales de la taína la española y la africana un ir y venir de influencias. Esta influencia afectaría toda la vida de esta isla.” Musical lyrics are mostly unintelligible during this segment. \n\nAn electric guitar transitions into “Cuembe na’ma,” a bomba song presented here as a salsa fusion adaptation. Flamenco singer Olga Tañón (A Puerto Rican singer known as the Queen of Merengue performs accompanied by palmas (handclaps) while a bomba dancer is present. Traditional jaleos are heard along with interruptions from the barriles creating a call and response between the palmas and the drums. The clips showcases highly virtuosic singing. The batey (or space in which bomba is performed) is located at an outdoor location and used modern sound equipment. Marc Anthony also has a small solo during this performance segment. Giovanni Hidalgo is on the barriles.\n"
+              "text": "A Flamenco singer known as Olgan Tanon accompanies images and text that state  “La bomba y la plena son productos de fusiones musicales de la taína la española y la africana un ir y venir de influencias. Esta influencia afectaría toda la vida de esta isla.” Musical lyrics are mostly unintelligible during this segment. Then, an electric guitar transitions into "
+            },
+            {
+              "text": "“Cuembe na’ma,”",
+              "bold": true
+            },
+            {
+              "text": " a bomba song presented here as a salsa fusion adaptation. Flamenco singer Olga Tañón (A Puerto Rican singer known as the Queen of Merengue performs accompanied by palmas (handclaps) while a bomba dancer is present. Traditional jaleos are heard along with interruptions from the barriles creating a call and response between the palmas and the drums. The clips showcases highly virtuosic singing. The batey (or space in which bomba is performed) is located at an outdoor location and used modern sound equipment. Marc Anthony also has a small solo during this performance segment. Giovanni Hidalgo is on the barriles.\n"
             }
           ]
         }
@@ -99,6 +106,18 @@
         {
           "category": "song title",
           "tag": "Cuembe na’ma"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        },
+        {
+          "tag": "palmas",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "guitar",
+          "category": "instrumentation"
         }
       ],
       "uuid": "56e863b1-15d4-45e5-87e7-e74cdeef3e92"
