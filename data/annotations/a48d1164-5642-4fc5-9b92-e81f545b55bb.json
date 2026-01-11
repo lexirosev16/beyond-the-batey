@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continuation of \"La boru cana\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "339d312b-06a1-43ed-b931-3b389ea7ad34"
+    }
+  ],
   "set": "Zafra Fusion Cepeda 5_Annotations",
   "event_id": "ccec29bf-dc79-4c78-a244-b623c92c0567",
   "source_id": "8918896a-0c7f-40a4-bd37-3e9242cde55d"
