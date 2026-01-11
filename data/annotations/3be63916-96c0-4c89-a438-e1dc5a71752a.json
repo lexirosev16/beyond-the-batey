@@ -195,6 +195,67 @@
         }
       ],
       "uuid": "72ed262b-7a10-43cd-8f73-d5be2c69095a"
+    },
+    {
+      "start_time": 494,
+      "end_time": 522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angel Chuco Rivera speaks:",
+              "bold": true
+            },
+            {
+              "text": " I love how the slave owners tried to group together people on a plantation who came from different parts of Africa in such a way that they couldn't speak to each other. They brought their religion, they brought their music, they brought everything. And so, of course, many people communicated more through a form that different regions did share: rhythmic genres, forms of bodily communication."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Margarita Tata Cepeda: ",
+              "bold": true
+            },
+            {
+              "text": "Well, look, they had to release all that fury, all that anger, all that feeling. How did they do it? They would gather on Saturday nights in the sugarcane fields, hidden from the overseers, to dance bomba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Margarita Tata Cepeda",
+          "category": "speaker"
+        },
+        {
+          "tag": "Angel Chuco Rivera",
+          "category": "speaker"
+        },
+        {
+          "tag": "plantations",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "37fbea1a-89c7-42af-9a2e-56bb09c08e61"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
