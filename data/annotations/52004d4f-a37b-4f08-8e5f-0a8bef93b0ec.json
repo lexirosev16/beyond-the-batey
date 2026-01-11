@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 187,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Majestad Negra\" performed by Petra Cepeda"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Petra Cededa",
+          "category": "speaker"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "111677df-fd51-408c-a051-f3fa00e187be"
+    }
+  ],
   "set": "Default",
   "event_id": "ccec29bf-dc79-4c78-a244-b623c92c0567",
   "source_id": "a3cd73fb-ccf2-40f3-9169-549dbed3f3eb"
