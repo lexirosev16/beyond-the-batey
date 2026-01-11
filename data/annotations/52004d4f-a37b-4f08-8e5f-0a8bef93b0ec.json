@@ -70,7 +70,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Reina de Carnaval\"",
+              "text": "\"Reina de Carnaval\" or \"Vejigante come coco\"",
               "bold": true
             }
           ]
@@ -101,9 +101,50 @@
               "text": "Versos"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que yo me voy (Carnaval)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para Gozar (Carnaval)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para bailar (Carnaval)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Vejigante come coco",
+          "category": "song title"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        }
+      ],
       "uuid": "05a219ef-716f-4639-b0f8-d517390547ca"
     }
   ],
