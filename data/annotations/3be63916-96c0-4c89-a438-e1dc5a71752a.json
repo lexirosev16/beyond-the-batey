@@ -539,6 +539,90 @@
         }
       ],
       "uuid": "54e66e90-63c6-4cec-86b9-58fbdcdd6582"
+    },
+    {
+      "start_time": 860,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Plena De San Anton\" performed by Los Pleneros de la 21 and Michael Stuart. The original composer was Chago Montes.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The plena that I know is not from China, nor from Japan, because the plena comes from Ponce, from the San Antón neighborhood."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because the plena comes from Ponce, from the San Antón neighborhood."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verses",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some say it's from Guayama and others that it's from Bayamón."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But the plena comes from Ponce, from the San Antón neighborhood. But the plena comes from Ponce, from the San Antón neighborhood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "song title",
+          "tag": "Plena de San Anton"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Los Pleneros de 21",
+          "category": "speaker"
+        },
+        {
+          "category": "analysis",
+          "tag": "reflexive"
+        }
+      ],
+      "uuid": "83492402-c681-45be-a42e-d4986560b6b1"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
