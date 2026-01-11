@@ -56,6 +56,55 @@
       ],
       "tags": [],
       "uuid": "7a12f40b-be0f-4de8-ad4c-d529865bb2b6"
+    },
+    {
+      "start_time": 133,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Later, a flamenco singer accompanies images and text that state that \"bomba and plena are products of musical fusions of Taíno, Spanish, and African influences—a back-and-forth exchange of influences. This influence would affect all aspects of life on this island.” Musical lyrics are mostly unintelligible during this segment.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Olga Tañón",
+          "category": "speaker"
+        },
+        {
+          "tag": "salsa",
+          "category": "genre"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
+        },
+        {
+          "category": "song title",
+          "tag": "Cuembe na’ma"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "flamenco",
+          "category": "genre"
+        },
+        {
+          "tag": "palmas",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "guitar",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "60cde645-6179-44e5-ab7f-aa9476781c4f"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
