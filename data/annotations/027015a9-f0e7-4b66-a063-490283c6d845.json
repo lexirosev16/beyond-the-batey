@@ -359,6 +359,35 @@
         }
       ],
       "uuid": "0d568a51-c84f-4244-8b4f-3bfc8ef4c34f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "música jibara",
+          "category": "genre"
+        },
+        {
+          "tag": "accordion",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "pandereta",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "49b7c779-0a13-4b68-abf5-36a13aa0a796"
     }
   ],
   "set": "Zafra Fusion Cepeda_Annotations",
