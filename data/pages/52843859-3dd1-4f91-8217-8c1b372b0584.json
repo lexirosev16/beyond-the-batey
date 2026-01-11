@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "\"This is not America\" Residente",
   "slug": "this-is-not-america-residente",
-  "updated_at": "2026-01-11T21:52:20.334Z",
+  "updated_at": "2026-01-11T22:08:44.986Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "dd93e3c0-2df3-439d-bf1e-03920d759680"
-  }
+  },
+  "parent": "ab93917a-0938-4723-b49b-697454f7b812"
 }
