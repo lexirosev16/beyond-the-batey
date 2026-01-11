@@ -62,12 +62,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "cuembe"
+              "text": ""
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "category": "genre",
+          "tag": "holandé"
+        }
+      ],
       "uuid": "84a1ef11-9700-4286-a284-19abfeba757c"
     }
   ],
