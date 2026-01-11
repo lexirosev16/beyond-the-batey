@@ -619,7 +619,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        }
+      ],
       "uuid": "7d5dc0f5-7f9b-440e-bae3-6e2763ea2b8d"
     },
     {
