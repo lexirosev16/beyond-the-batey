@@ -628,14 +628,15 @@
       "uuid": "7d5dc0f5-7f9b-440e-bae3-6e2763ea2b8d"
     },
     {
-      "start_time": 860,
+      "start_time": 888,
       "end_time": 1009,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Plena De San Anton\" performed by Los Pleneros de la 21 and Michael Stuart, The original composer was Chago Montes. "
+              "text": "\"Plena de yo conozco or Plena de San Anton\" performed by Los Pleneros de la 21 and Michael Stuart, The original composer was Chago Montes. ",
+              "bold": true
             }
           ]
         },
