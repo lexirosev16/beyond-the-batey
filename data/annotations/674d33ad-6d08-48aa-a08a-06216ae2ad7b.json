@@ -1766,7 +1766,7 @@
     },
     {
       "start_time": 4455,
-      "end_time": 0,
+      "end_time": 4800,
       "annotation": [
         {
           "type": "paragraph",
@@ -1783,6 +1783,63 @@
             {
               "text": "Coro",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo le rompe la tierra "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de la Caribe de la alma "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo le canta bomba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loiza "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cepedas "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De mi tierra Borinquen "
             }
           ]
         }
