@@ -1857,20 +1857,16 @@
               "text": "De mi tierra Borinquen "
             }
           ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
         }
       ],
       "tags": [
         {
           "tag": "Denis Solis",
           "category": "speaker"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
         }
       ],
       "uuid": "01d66ba6-9a60-4544-927a-4845625cee75"
