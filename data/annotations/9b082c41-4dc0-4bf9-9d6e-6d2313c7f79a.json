@@ -182,7 +182,7 @@
     },
     {
       "start_time": 357,
-      "end_time": 420,
+      "end_time": 462,
       "annotation": [
         {
           "type": "paragraph",
@@ -231,6 +231,10 @@
         {
           "tag": "Son mas divina",
           "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "532651a0-8b33-4aee-a26a-9230050be6f2"
