@@ -397,6 +397,43 @@
         }
       ],
       "uuid": "ebb83f40-1e79-4c94-bd3e-1b0cf4a2ce6f"
+    },
+    {
+      "start_time": 612,
+      "end_time": 616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps. I get up, I take a breath, I follow the rhythm, I clear my head in the blood of a race that looks in the mirror with black hands, hands that throw themselves onto the leather. Song, dance, rhythm. Song, dance, rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E. Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "category": "speaker",
+          "tag": "Welmo E Romero Joseph"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "52cc42d4-61f1-48c1-b628-970ee8998b7c"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
