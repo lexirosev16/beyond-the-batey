@@ -628,14 +628,64 @@
       "uuid": "7d5dc0f5-7f9b-440e-bae3-6e2763ea2b8d"
     },
     {
-      "start_time": 922,
+      "start_time": 860,
       "end_time": 1009,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Plena De San Anton\" performed by Los Pleneros de la 21. The original composer was Chago Montes. Plena de San Anton. La plena que yo conozco no es de la China ni del Japón porque la plena viene de Ponce desde el barrio de San Antón. Porque la plena viene de Ponce desde el barrio de San Antón. Unos dicen que es de Guayama y otros que es de Bayamón. Pero la plena viene de Ponce desde el barrio de San Antón. Pero la plena viene de Ponce desde el barrio de San Antón."
+              "text": "\"Plena De San Anton\" performed by Los Pleneros de la 21 and Michael Stuart, The original composer was Chago Montes. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " La plena que yo conozco no es de la China, ni del Japón porque la plena viene de Ponce desde el barrio de San Antón. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque la plena viene de Ponce desde el barrio de San Antón. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unos dicen que es de Guayama y otros que es de Bayamón. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero la plena viene de Ponce desde el barrio de San Antón. Pero la plena viene de Ponce desde el barrio de San Antón."
             }
           ]
         }
@@ -648,6 +698,14 @@
         {
           "tag": "Los Pleneros de 21",
           "category": "speaker"
+        },
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "reflexive"
         }
       ],
       "uuid": "c3983283-2b3d-4f6b-a8a8-31dbd6510a40"
