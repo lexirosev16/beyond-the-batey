@@ -1,5 +1,413 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 7,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reference to Lolita Lebrón, a Puerto Rican nationalist who attempted to assassinate the presiding President of the United States of America in 1954, President Truman. She was thereafter incarcerated. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "cd8d3321-ccc0-4604-9cc3-17a633b0a7e9"
+    },
+    {
+      "start_time": 43,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visuals reference unchecked gun violence in the US and abroad."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6005b73a-cb01-467e-86dd-08848a2a80e7"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visuals show an Indigenous-presenting statue of liberty."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44e69e5e-fea4-421f-970a-3f8cdac69d16"
+    },
+    {
+      "start_time": 48,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Images display instances of police brutality in Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a7b5d3de-8734-401d-a2c6-b3e5f06604a1"
+    },
+    {
+      "start_time": 50,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the midst of protests, a couple dances the tango in streets torn apart by violence, a striking contrast. Their movements are juxtaposed by those that fall into the classification of Andre Lepecki's choreopolicing. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "637bcbc3-43c7-4c34-aa48-5b76eaa241b4"
+    },
+    {
+      "start_time": 66,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indigenous protester's body is torn restricted in four directions."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "08b9a63c-aedb-4ae9-8677-0bac2c21b25a"
+    },
+    {
+      "start_time": 73,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Children are shown detained by fences and shouting. Then a woman possibly Afro-Latina is seen breastfeeding her baby through the barbed wire. Most likely, a reference to detention centers deportation and the terror and separation that they inflict on families. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "902ce5a6-a3a1-4380-a229-a45a1955bb6d"
+    },
+    {
+      "start_time": 92,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puerto Ricans or other indigenous-presenting women lift their palos (or historical sticks used within martial arts) as symbols of protest. Their identities are concealed by masks, except for their eyes. They then lift their masks to reveal that they are all women and they are also clothed in traditional attire."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "36b40c77-25b7-40e9-b4a1-6e8a1ddf5991"
+    },
+    {
+      "start_time": 101,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A man lifts up a crucifix, possibly an allusion to liberation theology which was popular in the Americas during the late 1960s and early 1970s. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ea8ffe6d-5633-4810-a55c-ba1cafbaa97b"
+    },
+    {
+      "start_time": 111,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An Afro-Latin woman's face is shown with a bullet hole, a reference to gun violence that disproportionately affects marginalized communities."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d8ea777d-a557-443f-9a49-5cb20264ba8a"
+    },
+    {
+      "start_time": 129,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tattooed men are shown with an image of La Virgen del Guadalupe. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "15f2955c-a2d1-4560-ae51-9e33b2e1067a"
+    },
+    {
+      "start_time": 134,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indigenous child dressed in traditional regalia and also barefoot sits atop a pile of McDonald's Happy Meals a reference both to food deserts commercialism and colonialism occurring in Latin America. Behind him lie the ruins of a building"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62c17559-3762-4c21-83b1-2ab460103f42"
+    },
+    {
+      "start_time": 138,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Residente is dressed in U.S. Army Special Forces military attire and stands with a man with a bullet hole. This is a reference to US military involvement in Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6878242f-be1b-490c-95ea-1c03508c5a35"
+    },
+    {
+      "start_time": 147,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An Indigenous child stands beside a politician as he eats. The flag depicted is that of Gabon. The white man casually wipes his face with the flag, symbolizing his disregard for the nation and the greed and exploitation he represents."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "0229bd9a-fb78-4e93-8ca0-868cf37b177e"
+    },
+    {
+      "start_time": 150,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More guns are depicted in the air. A reference back to Childish Gambino's \"This is America.\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce9e1c8e-1549-4165-a8ce-5d71a810891b"
+    },
+    {
+      "start_time": 164,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indigenous half-dressed child tosses Amazon boxes into a dirty fountain. A reference to Amazon's exploitation of developing countries."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62a9e118-05af-4a12-9b43-bbe62ec4d8c3"
+    },
+    {
+      "start_time": 170,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A line of police is shown as Residente flicks them off and a man carries the Venezuelan flag towards the seemingly impenetrable police line."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "07c3546e-9a0c-48c2-be2f-583cf97aadcb"
+    },
+    {
+      "start_time": 176,
+      "end_time": 177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A man playing the guitar and nueva cancion is shot by residente. His face already covered in blood as they stand in an American football stadium."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6832a664-9f82-4cbe-9b6c-c0471645fe35"
+    },
+    {
+      "start_time": 187,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An indigenous child sips coffee while sitting atop a line of disposable coffee cups with a line of police behind him and then pours it out onto the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2770c073-1eef-423b-be4e-7c78ef307925"
+    },
+    {
+      "start_time": 192,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Mayan ruins are shown dislocated in contemporary Mexico City. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "67c2e076-7710-452e-b9d6-97eef833e4ab"
+    },
+    {
+      "start_time": 200,
+      "end_time": 1821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drones chase a man."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ba34dc74-e6e5-4c91-b2f3-30654dac79e6"
+    },
+    {
+      "start_time": 205,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A Black man is split on the screen between winning a soccer trophy in his left hand and holding a gun in his right hand. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1137a9c6-6bf7-40ef-8b57-b84ebf7024eb"
+    },
+    {
+      "start_time": 213,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A woman breathes out vapor into the face of a police line."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e9d6031-33df-4481-a419-10e622341543"
+    },
+    {
+      "start_time": 215,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A woman plays drums in the midst of fire."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90f832f1-4a2d-4ba0-bd5e-2184c2edd036"
+    }
+  ],
   "set": "Default",
   "event_id": "dd93e3c0-2df3-439d-bf1e-03920d759680",
   "source_id": "ef029d5d-d5c7-4642-9346-5de94d87a55f"
