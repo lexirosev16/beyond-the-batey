@@ -61,6 +61,50 @@
         }
       ],
       "uuid": "111677df-fd51-408c-a051-f3fa00e187be"
+    },
+    {
+      "start_time": 400,
+      "end_time": 510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Reina de Carnaval\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "05a219ef-716f-4639-b0f8-d517390547ca"
     }
   ],
   "set": "Default",
