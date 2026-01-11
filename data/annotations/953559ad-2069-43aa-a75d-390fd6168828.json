@@ -963,6 +963,14 @@
         {
           "tag": "salsa",
           "category": "genre"
+        },
+        {
+          "tag": "Olga Tañón",
+          "category": "speaker"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
         }
       ],
       "uuid": "9aeca220-3f15-44ce-a36b-d698fdc028a6"
