@@ -1515,7 +1515,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo raps   bViernes  en la noche luna en cuarto menguante parada 22 de la plaza del mercado está dulce y elena se patean altanera viviendo su presente sin saber lo que espera la gente conversando la bbc tocando la lata de cerveza en el piso van quedando vecinos de la zona ya cerraron sus ventanas.  Elena y su crónica de una muerte anunciada llegó Elena preciosa Elena qué te parece Elena. Este hipo con la plena. Vives en tu vida que a tu modo mis maneras y por eso nena se cortaron sin problemas. Elenas mueren cada día por maltrato a un con nueve o sigo la ley 54. "
+              "text": "Welmo raps. Viernes  en la noche luna en cuarto menguante parada 22 de la plaza del mercado está dulce y elena se patean altanera viviendo su presente sin saber lo que espera la gente conversando la bbc tocando la lata de cerveza en el piso van quedando vecinos de la zona ya cerraron sus ventanas.  Elena y su crónica de una muerte anunciada llegó Elena preciosa Elena qué te parece Elena. Este hipo con la plena. Vives en tu vida que a tu modo mis maneras y por eso nena se cortaron sin problemas. Elenas mueren cada día por maltrato a un con nueve o sigo la ley 54. "
             }
           ]
         }
@@ -1524,6 +1524,10 @@
         {
           "tag": "Welmo E. Romero Joseph",
           "category": "speaker"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
         }
       ],
       "uuid": "2aff72ea-bbd5-4d8f-9627-61ea01a645d9"
