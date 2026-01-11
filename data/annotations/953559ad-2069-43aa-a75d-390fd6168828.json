@@ -2694,6 +2694,44 @@
         }
       ],
       "uuid": "90d84f8d-1c2d-414b-8c3a-be2db151a50a"
+    },
+    {
+      "start_time": 648,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Oí, una voz\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oí, una voz "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oí una voz divin"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "e28ed1f4-23d1-4647-b433-33954e03f3af"
     }
   ],
   "set": "Bomba Films_Raices_Spanish",
