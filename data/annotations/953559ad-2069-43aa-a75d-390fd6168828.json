@@ -567,6 +567,31 @@
               "text": "Me da la memoria que yo le mandé "
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dale, la memoria que yo le mandé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me da la memoria, Tata, que yo le mandé"
+            }
+          ]
         }
       ],
       "tags": [
