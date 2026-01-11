@@ -2987,20 +2987,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Julio Axel Ladrón"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              "text": "\"Falsa canción de Baquine\" performed by Julio Axel Ladrón",
+              "bold": true
+            },
             {
-              "text": "Falsa Baquine de Guyama"
+              "text": "\n"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "La falsa baquine",
+          "category": "song title"
+        }
+      ],
       "uuid": "412573e2-e201-4216-adb5-cc11688a0623"
     }
   ],
