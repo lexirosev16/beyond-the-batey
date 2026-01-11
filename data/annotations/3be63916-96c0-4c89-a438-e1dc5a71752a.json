@@ -1,5 +1,47 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 72,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps. Assuming my people are ready, a chronicler arrives, the protagonist of a story that pays homage to rhythm, the drum, and cadence, giving essence and relevance to powerful memories, claiming a space within a culture that has sometimes forgotten the splendor of its Black heritage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "Welmo E. Romero Joseph",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "fd9acd7c-5e10-4553-84a2-a58c418e5ea2"
+    }
+  ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
   "set": "Bomba Films_Raices_English",
   "source_id": "679fd3f4-9b38-4e26-bca1-02edfc3f44a8"
