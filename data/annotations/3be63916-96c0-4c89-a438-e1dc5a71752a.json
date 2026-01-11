@@ -1170,6 +1170,90 @@
         }
       ],
       "uuid": "42106439-f6c8-4e47-aeb1-9d3a4ab59986"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Storm\" Plena Libre",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Storm, storm, the storm is coming"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Storm, storm, the storm is coming"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verses",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What will become of Puerto Rico when the storm arrives?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What will become of my Borinquen when the storm arrives?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "plena",
+          "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
+        },
+        {
+          "tag": "Temporal",
+          "category": "song title"
+        },
+        {
+          "tag": "disaster",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "24ac68e3-a965-4b1f-9e7f-ff159fd9c129"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
