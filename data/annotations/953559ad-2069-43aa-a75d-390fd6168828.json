@@ -2987,9 +2987,22 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Falsa canción de Baquine\" performed by Julio Axel Ladrón",
+              "text": "\"Falsa canción de Baquine\" performed by Julio Axel Ladrón. Written by Luis Palos Matos.",
               "bold": true
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero que ahora verá la playa\nPero que ahora verá el palmar\nPero que ahora ante el fuego\nGrande con Tembandumbá\nPodrá bailar\n\nPero que ahora verá la playa\nPero que ahora verá el palmar\nPero que ahora ante el fuego\nGrande con Tembandumbá\nPodrá bailar\nCon Tembandumbá\nPodrá bailar\nCon Tembandumbá\n\nY a la Guinea su zombi vuela\nCoquí, cocó, cucú, cacá\nBombo, el gran mongo, bajo la selva\nSu tierno paso conducirá\n\nNi sombra blanca sobre la hierba\nNi brujo negro lo estorbará\nBombo, el gran mongo, bajo la selva\nSu tierno paso conducirá\nSu tierno paso conducirá\nSu tierno paso\n\n"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
               "text": "\n"
             }
@@ -3000,6 +3013,10 @@
         {
           "tag": "La falsa baquine",
           "category": "song title"
+        },
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
         }
       ],
       "uuid": "412573e2-e201-4216-adb5-cc11688a0623"
