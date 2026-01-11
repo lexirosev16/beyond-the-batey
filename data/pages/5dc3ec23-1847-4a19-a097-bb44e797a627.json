@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "Bomba Films_Raices",
   "slug": "bomba-filmsraices-2",
-  "updated_at": "2026-01-11T21:18:27.505Z",
+  "updated_at": "2026-01-11T21:23:41.103Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7"
-  }
+  },
+  "parent": "017c6169-228f-45c0-b99e-3167293f4acf"
 }
