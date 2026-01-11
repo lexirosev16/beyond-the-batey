@@ -2712,6 +2712,23 @@
           "type": "paragraph",
           "children": [
             {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oí, una voz"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "text": "Oí, una voz "
             }
           ]
@@ -2720,7 +2737,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Oí una voz divin"
+              "text": "Oí una voz divina de cielo que me llamó"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
             }
           ]
         }
