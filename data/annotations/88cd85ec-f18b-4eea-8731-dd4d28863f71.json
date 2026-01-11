@@ -53,6 +53,22 @@
         }
       ],
       "uuid": "5635cc4c-14e7-4fbb-a4e7-caeba090adb1"
+    },
+    {
+      "start_time": 590,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cuembe"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "84a1ef11-9700-4286-a284-19abfeba757c"
     }
   ],
   "set": "2025 Encuentro de Tambores_Annotations",
