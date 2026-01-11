@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "36c57cdb-3e0b-4d14-be74-e1c3ddcab875": {
+      "label": "Encuentro de Cantaoras",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/DdoWHTWy-DQ?si=QofcmCqYmpqJcE4F",
+      "duration": 4811,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Bomba Festivals_2025 Encuentro de Cantaoras",
+  "av_file_order": [
+    "36c57cdb-3e0b-4d14-be74-e1c3ddcab875"
+  ],
+  "created_at": "2026-01-11T21:40:28.649Z",
+  "created_by": "lexirosev16",
+  "updated_at": "2026-01-11T21:40:28.649Z",
+  "updated_by": "lexirosev16"
+}
