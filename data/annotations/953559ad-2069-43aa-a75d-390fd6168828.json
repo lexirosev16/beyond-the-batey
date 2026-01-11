@@ -2980,7 +2980,7 @@
       "uuid": "735aafb7-b370-44f4-859a-878296eb0a0f"
     },
     {
-      "start_time": 1067,
+      "start_time": 1054,
       "end_time": 0,
       "annotation": [
         {
@@ -2988,6 +2988,14 @@
           "children": [
             {
               "text": "Julio Axel Ladrón"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Falsa Baquine de Guyama"
             }
           ]
         }
