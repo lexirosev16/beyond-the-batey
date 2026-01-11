@@ -4,11 +4,12 @@
   "created_by": "lexirosev16",
   "title": "\"Cultura\" Puya",
   "slug": "cultura-puya",
-  "updated_at": "2026-01-11T21:54:03.873Z",
+  "updated_at": "2026-01-11T22:07:45.181Z",
   "updated_by": "lexirosev16",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "3f2635a4-da7d-43d6-a0b2-9ebbd0800586"
-  }
+  },
+  "parent": "ab93917a-0938-4723-b49b-697454f7b812"
 }
