@@ -64,7 +64,7 @@
     },
     {
       "start_time": 400,
-      "end_time": 510,
+      "end_time": 1062,
       "annotation": [
         {
           "type": "paragraph",
@@ -72,24 +72,6 @@
             {
               "text": "\"Reina de Carnaval\" or \"Vejigante come coco\"",
               "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "bold": true,
-              "text": "Coro"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "bold": true,
-              "text": ""
             }
           ]
         },
