@@ -1763,6 +1763,37 @@
         }
       ],
       "uuid": "0ba1041d-d9bc-4152-8e4e-98407943a97f"
+    },
+    {
+      "start_time": 4455,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Soy lo que rompe\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Denis Solis",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "01d66ba6-9a60-4544-927a-4845625cee75"
     }
   ],
   "set": "2025 Encuentro de Cantaoras_Annotations",
