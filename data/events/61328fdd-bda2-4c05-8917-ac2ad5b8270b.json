@@ -56,20 +56,6 @@
       "set_sort": [],
       "duration_overridden": true
     },
-    "d9996e91-8244-46f1-a836-7431659c10fc": {
-      "label": "2025 Encuentro de Tambores",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://www.youtube.com/live/Oh-Pq6Uwye8?si=ZzAMPVIR1g3cXf2d",
-      "duration": 2682,
-      "caption_set": [
-        {
-          "annotation_page_id": "88cd85ec-f18b-4eea-8731-dd4d28863f71"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
     "8afa4d64-18c2-4419-9b9f-ec2b896f608e": {
       "label": "2021 Encuentro de Cantaoras",
       "is_offline": false,
@@ -145,7 +131,6 @@
     "0652271f-8b64-42d4-88af-ce73ad200ebb",
     "75d48a1a-da73-4668-8024-cf985e1da7df",
     "27b37046-a15e-4d8d-9bb7-a1cd0ff99b1d",
-    "d9996e91-8244-46f1-a836-7431659c10fc",
     "8afa4d64-18c2-4419-9b9f-ec2b896f608e",
     "3aa650a3-4328-4511-a046-6821f95ab8ee",
     "52877805-37cd-4986-89ca-b961cd0b5373",
@@ -153,6 +138,6 @@
   ],
   "created_at": "2026-01-04T06:39:25.404Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-07T08:59:52.837Z",
+  "updated_at": "2026-01-11T03:51:53.890Z",
   "updated_by": "lexirosev16"
 }
