@@ -256,6 +256,35 @@
         }
       ],
       "uuid": "37fbea1a-89c7-42af-9a2e-56bb09c08e61"
+    },
+    {
+      "start_time": 375,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo intervenes once again with a narrative rap transition. Stating the following: \"I don’t pretend to replace absent voices nor claim that my speech is the only reference. Dance bomba, play plena—what I say is worth hearing. What matters is the connection between past and present.\"\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        },
+        {
+          "tag": "Welmo E. Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "category": "speaker",
+          "tag": "Welmo E Romero Joseph"
+        }
+      ],
+      "uuid": "4c684912-4649-4b7e-8d53-3276c503090f"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
