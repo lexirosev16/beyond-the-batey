@@ -1515,6 +1515,51 @@
         }
       ],
       "uuid": "abea1e68-0132-4525-9717-eb4b1c75c094"
+    },
+    {
+      "start_time": 2587,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps. Friday night, waning moon, stop 22 of the market square, it's sweet, and Elena and her friend are strutting around, living in the moment, unaware of what awaits them, chatting, the BBC playing, a beer can on the ground. Neighbors from the area are leaving, they've already closed their windows. Elena and her chronicle of a death foretold. Elena, beautiful Elena, what do you think, Elena? This hiccup with the plena music. You live your life your way, my way, and that's why, baby, they broke up without problems. Elenas die every day from abuse, even with Law 54 in effect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E. Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "gender"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "552dc57a-d8eb-4844-8922-e2d2dc89aeaa"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
