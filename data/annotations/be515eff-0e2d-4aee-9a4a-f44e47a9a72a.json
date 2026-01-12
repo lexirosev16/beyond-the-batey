@@ -327,7 +327,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Cómo tu pretendes que yo te quiera?\nCómo tu pretendes que yo te adore?"
+              "text": "Cómo tu pretendes que yo te quieras?"
             }
           ]
         },
@@ -335,8 +335,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Si te quieres en esa manera, en esa manera, llora(n) las corazones. \n"
-            },
+              "text": "Cómo tu pretendes que yo te adoro?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si te quieras de esa manera, de esa\nmanera, llora(n) las corazones. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
               "text": "Versos",
               "bold": true
@@ -347,7 +360,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Que lleva ... flores"
+              "text": "Ya ti te entregue toda, toda mi vida"
             }
           ]
         },
@@ -355,7 +368,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Esa madera .. sin razones "
+              "text": "Mis panderos y mis tambores"
             }
           ]
         },
@@ -363,7 +376,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Y aquí mi tienes con un niño llorando\nte vidas cantando de mis canciones"
             }
           ]
         },
@@ -371,7 +384,39 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Mi madre me decía que certifica que\nnunca te perdone "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi madre me decía que te olvide que\nno me haga mis ilusiones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y aquí me tienes como puntitos\nllorando de vida sufriendo y de mal de amores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si tu supieras como yo me siento"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Envolvió en todos tus ilusiones y\nahora viene rodando pidiéndome negra que a ti yo te perdoné"
             }
           ]
         }
