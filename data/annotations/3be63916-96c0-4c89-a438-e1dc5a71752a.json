@@ -1560,6 +1560,218 @@
         }
       ],
       "uuid": "552dc57a-d8eb-4844-8922-e2d2dc89aeaa"
+    },
+    {
+      "start_time": 2632,
+      "end_time": 2820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"They Cut Elena\" performed by Street Theater",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They cut Elena, they cut Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They cut Elena and took her to the hospital"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verses",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elena was very beautiful, she was the queen of the slum. And that wicked suitor who came to scar her face."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her mother cried, and why wouldn't she cry,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if they cut Elena and took her to the hospital"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the news came that she was in the hospital,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the town, full of rage,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "wanted to kill that man"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her father also cried,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and how could he not cry,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "if it was Elena, his daughter, who was in the hospital"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh my!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was truly sad"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It made you want to cry"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When they cut Elena and took her to the hospital"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh God!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They cut Elena, they cut Elena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They cut Elena and took her to the hospital"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "song title",
+          "tag": "Cortaron Elena"
+        },
+        {
+          "tag": "Cortaron a Elena",
+          "category": "song title"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "category": "analysis",
+          "tag": "gender"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "38abdfef-fc1a-4e3f-828f-3df3cb40239e"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
