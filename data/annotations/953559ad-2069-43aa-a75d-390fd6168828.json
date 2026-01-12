@@ -1722,6 +1722,10 @@
         {
           "category": "song title",
           "tag": "Cuando Diego bailó"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "15c36837-9ec1-48c1-835a-22837654b3df"
