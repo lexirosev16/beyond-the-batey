@@ -1541,7 +1541,7 @@
       "uuid": "42948195-5ea7-40ab-ad61-235ffa3636fb"
     },
     {
-      "start_time": 5400,
+      "start_time": 5420,
       "end_time": 5520,
       "annotation": [
         {
@@ -1566,8 +1566,31 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "Yo bailaré, yo bailaré "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La bomba de Loiza, yo bailaré"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "bold": true,
-              "text": "Versos\n\n"
+              "text": "Versos\n"
+            },
+            {
+              "text": "Ay, la bomba de Loiza, yo bailaré"
+            },
+            {
+              "bold": true,
+              "text": "\n"
             }
           ]
         }
@@ -1576,6 +1599,10 @@
         {
           "tag": "Delegación de Loíza",
           "category": "delegation"
+        },
+        {
+          "tag": "seis corrido",
+          "category": "genre"
         }
       ],
       "uuid": "d8886ea1-c07f-4804-86ca-04b5bf25e507"
