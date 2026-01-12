@@ -712,6 +712,31 @@
         }
       ],
       "uuid": "19b65716-883b-41ae-b835-b67b9ddde01f"
+    },
+    {
+      "start_time": 1980,
+      "end_time": 2100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The last song of Delegacion del Sur's set. Song unidentified."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "7cc724c8-e7ae-49d4-a233-413ca80bf008"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
