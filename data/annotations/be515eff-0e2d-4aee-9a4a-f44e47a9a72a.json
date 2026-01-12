@@ -762,6 +762,90 @@
         }
       ],
       "uuid": "4acbf976-8191-4e5c-b648-b90915282ba0"
+    },
+    {
+      "start_time": 2190,
+      "end_time": 2250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified Bomba Melody performed by the Delegacion de las Carolinas",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esa gente, mi raza"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me va pa' buena adventura"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con mi abajo, hoya y mula "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay Maria, llega a la historia "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay Maria, me da la memoria "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "c7ec04a6-2182-4fac-98f0-b61a9846781d"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
