@@ -945,6 +945,69 @@
         }
       ],
       "uuid": "043a969a-406f-4909-a643-996b6598a511"
+    },
+    {
+      "start_time": 3570,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Somos semillas\" Delegacion del Oeste",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somos semillas, somos el fruto de la bomba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Somos las flores, somes retonos, somos capullos "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y mi herencia son los tambores. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "song title",
+          "tag": "Somos semillas"
+        },
+        {
+          "tag": "Somos semillas, somos el fruto de la bomba",
+          "category": "song title"
+        },
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "3c50add0-5961-44d8-9881-b18b365fabbf"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
