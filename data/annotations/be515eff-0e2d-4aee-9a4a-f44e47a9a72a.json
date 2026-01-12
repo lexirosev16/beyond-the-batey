@@ -303,13 +303,13 @@
     },
     {
       "start_time": 1480,
-      "end_time": 0,
+      "end_time": 1560,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"add song\" Delegación del Sur",
+              "text": "\"Como tu pretendes?\" Delegación del Sur",
               "bold": true
             }
           ]
@@ -327,16 +327,11 @@
           "type": "paragraph",
           "children": [
             {
-              "bold": true,
-              "text": "Versos"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
+              "text": "Cómo tu pretendes que yo te quiera?\nCómo tu pretendes que yo te adore?\nEn esa manera, en esa manera, llora las corazones. \n"
+            },
             {
-              "text": "Cómo tu pretendes que yo te quiera?"
+              "text": "Versos",
+              "bold": true
             }
           ]
         }
@@ -345,6 +340,26 @@
         {
           "tag": "Delegación del Sur",
           "category": "delegation"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "6f1c02f2-5ce6-4efe-a323-e74beb6a03ba"
