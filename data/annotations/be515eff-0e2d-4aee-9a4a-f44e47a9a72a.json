@@ -445,6 +445,10 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Plena libre",
+          "category": "song title"
         }
       ],
       "uuid": "6f1c02f2-5ce6-4efe-a323-e74beb6a03ba"
