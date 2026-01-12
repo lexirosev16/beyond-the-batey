@@ -1647,6 +1647,94 @@
         }
       ],
       "uuid": "cf29ef93-efee-4061-ab17-abf2a80206d5"
+    },
+    {
+      "start_time": 5980,
+      "end_time": 6060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La tradicion de bomba de verdad\"  Delegación de la Diáspora",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Necesita entre nosotros "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los cimarrones de los tiempos atras"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A los corazones "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La tradicion de bomba de verdad "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La tradicion que nunca me muero"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La tradicion que la bomba de verdad "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "c6a4da63-9608-4a8a-a94c-04621228a0f6"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
