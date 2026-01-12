@@ -610,7 +610,36 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\""
+              "text": "\"Mi negro cojanlo suave\" Delegacion del Sur",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nMi negro cojanlo suave ..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi negro cojanlo suave  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mirame lo ....\n\n"
             }
           ]
         }
@@ -623,6 +652,10 @@
         {
           "tag": "Delegación del Sur",
           "category": "delegation"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
         }
       ],
       "uuid": "19b65716-883b-41ae-b835-b67b9ddde01f"
