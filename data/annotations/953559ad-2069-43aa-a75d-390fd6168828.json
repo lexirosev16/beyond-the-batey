@@ -8,7 +8,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Estoy buscando un árbol que me dé sombra.\" This traditional tune opens the film and then transitions into a salsa adaptation signaling musical fusion. The accompanying images of the film depict the following: bomba practitioners or bomberos playing the barriles and dancing, a traditional casita, a tree growing and its roots and seeds fertilizing the earth. "
+              "text": "“Estoy buscando un árbol que me dé sombra.\"",
+              "bold": true
+            },
+            {
+              "text": " This traditional tune opens the film and then transitions into a salsa adaptation signaling musical fusion. The accompanying images of the film depict the following: bomba practitioners or bomberos playing the barriles and dancing, a traditional casita, a tree growing and its roots and seeds fertilizing the earth. "
             }
           ]
         }
@@ -29,6 +33,10 @@
         {
           "category": "analysis",
           "tag": "ecological"
+        },
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
         }
       ],
       "uuid": "9d1f5c93-1141-4bd3-bb34-bdb2e207c82e"
