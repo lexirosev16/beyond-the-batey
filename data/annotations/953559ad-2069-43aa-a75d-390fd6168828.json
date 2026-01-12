@@ -3320,6 +3320,22 @@
         }
       ],
       "uuid": "b7050417-58b5-4934-936b-6ee898c0729e"
+    },
+    {
+      "start_time": 3147,
+      "end_time": 3150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Discussion of \"La SanSe\" or the San Sebastian Street Festivals held annually from the third Thursday of January to the third Sunday of January to commemorate the patron saint San Sebastian. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "686718fb-cadc-4172-a2d9-525f7bd058ce"
     }
   ],
   "set": "Bomba Films_Raices_Spanish",
