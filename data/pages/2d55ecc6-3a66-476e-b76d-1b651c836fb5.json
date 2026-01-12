@@ -4,8 +4,42 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Scope",
-          "bold": true
+          "text": "This AVAnnotate project documents Afro–Puerto Rican musical and cultural expressions of bomba. Compiled between September 2025 and January 11, 2026, the collection brings together commercial music videos, multi-year festival recordings, and films that feature bomba. The materials range from the global pop of Rauw Alejandro (“Besito en la frente,” “Carita Linda”) to “Canción Sin Miedo,” Residente’s "
+        },
+        {
+          "text": "This Is Not America",
+          "italic": true
+        },
+        {
+          "text": ", and works by Puya, Esoterica Tropical, and other contemporary artists. The archive also includes extensive recordings of Bomba festivals from 2018–2025, including Los Encuentros de Tambores, Los Encuentros de Cantaoras, and La Magia de los Tambores, as well as films such as "
+        },
+        {
+          "text": "Zafra Fusion Cepeda",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Raíces",
+          "italic": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "Resistimos",
+          "italic": true
+        },
+        {
+          "text": ". Within this annotated environment, I transcribed songs bilingually and labeled bomba pieces by subgenre, rhythm, performers, speakers, and sociocultural themes such as cultural memory, Blackness, feminism, and labor. As a Ph.D. candidate in Ethnomusicology, this work matters to me because it increases access to materials that are rarely available online. Most"
+        },
+        {
+          "text": " letras de bomba ",
+          "italic": true
+        },
+        {
+          "text": "are not published online, nor easily accessible, so each transcription required repeated listening and close attention to melody, text, and recurring thematic patterns. This intensive aural method is one I recommend for future scholars and practitioners of bomba. All materials were sourced from open-access YouTube recordings."
         }
       ]
     },
@@ -13,7 +47,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "I have chosen to focus on festivals, films and commercial music videos in bomba for my AVannotate audiovisual annotation set. "
+          "text": "\n\n"
         }
       ]
     }
@@ -26,6 +60,6 @@
   "slug": "about",
   "created_at": "2026-01-04T09:15:27.837Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-11T22:13:49.306Z",
+  "updated_at": "2026-01-12T03:06:35.607Z",
   "updated_by": "lexirosev16"
 }
