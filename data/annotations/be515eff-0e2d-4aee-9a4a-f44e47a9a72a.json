@@ -538,6 +538,32 @@
         }
       ],
       "uuid": "6f1c02f2-5ce6-4efe-a323-e74beb6a03ba"
+    },
+    {
+      "start_time": 1681,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Esta llamando\" Delegacion del Sur",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "cab0a625-b0da-4709-9df0-2a32abb4f901"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
