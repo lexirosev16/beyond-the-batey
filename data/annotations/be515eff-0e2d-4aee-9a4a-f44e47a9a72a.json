@@ -1151,6 +1151,86 @@
         }
       ],
       "uuid": "e6a6288b-4162-46d7-b711-dd865dd102d3"
+    },
+    {
+      "start_time": 4440,
+      "end_time": 4560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Me voy pa' la bomba\" Delegación de los Cangrejos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me voy me voy pa' la bomba "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me voy, me voy pa' la bomba con la luna llena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pa' la luna llena, me voy "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me voy, me voy pa' la bomba Mama, con la luna llena "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "ecological"
+        }
+      ],
+      "uuid": "b87772bd-924e-479d-9a05-684d67a5b3f7"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
