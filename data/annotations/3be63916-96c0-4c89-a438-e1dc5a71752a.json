@@ -1312,6 +1312,134 @@
         }
       ],
       "uuid": "d97d052a-2883-483b-9136-45d96610893e"
+    },
+    {
+      "start_time": 2289,
+      "end_time": 2340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"When Diego Danced\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Diego danced, when Diego"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Diego danced, even the earth trembled"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verses",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, when Diego danced, when Diego danced"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Diego danced, even the sky clouded over"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even the earth trembled"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even the earth trembled"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Diego danced, even the rain came"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even the earth trembled"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even the earth trembled"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Diego danced, then the rain came"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuando Diego bailo",
+          "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "dac5e126-b6d5-4b98-89ce-ae64eff5e636"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
