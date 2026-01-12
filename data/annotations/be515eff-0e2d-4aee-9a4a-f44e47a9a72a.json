@@ -1539,6 +1539,46 @@
         }
       ],
       "uuid": "42948195-5ea7-40ab-ad61-235ffa3636fb"
+    },
+    {
+      "start_time": 5400,
+      "end_time": 5520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo bailaré\" Delegación de Loíza",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "d8886ea1-c07f-4804-86ca-04b5bf25e507"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
