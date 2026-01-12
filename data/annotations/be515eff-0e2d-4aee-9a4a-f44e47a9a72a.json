@@ -547,8 +547,41 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Esta llamando\" Delegacion del Sur",
+              "text": "\"Bomba me esta llamando\" Delegacion del Sur",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bomba me esta llamando. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bomba me esta llamando. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conga y mi bomba yo, me esta repicando. "
             }
           ]
         }
@@ -561,6 +594,10 @@
         {
           "tag": "Delegación del Sur",
           "category": "delegation"
+        },
+        {
+          "category": "analysis",
+          "tag": "reflexive"
         }
       ],
       "uuid": "cab0a625-b0da-4709-9df0-2a32abb4f901"
