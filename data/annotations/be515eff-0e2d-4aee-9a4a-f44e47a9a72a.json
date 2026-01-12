@@ -318,6 +318,31 @@
           "type": "paragraph",
           "children": [
             {
+              "text": "Llamada ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena mi(s) barriles!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El sur ya llego"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
               "bold": true,
               "text": "Coro "
             }
@@ -335,7 +360,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Cómo tu pretendes que yo te adoro?"
+              "text": "Cómo tu pretendes que yo te adore?"
             }
           ]
         },
@@ -351,7 +376,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Versos",
+              "text": "Versos (Plena Libre Version)",
               "bold": true
             }
           ]
@@ -443,6 +468,39 @@
               "text": "Y ahora es que me doy cuenta amores\ncomo el tuyo se encuentra en los zapatones"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos (Delegacion del Sur)",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De esa manera, matan mi(s) ilusiones"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otro conmigo "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De esa manera, hacer camino."
+            }
+          ]
         }
       ],
       "tags": [
@@ -473,6 +531,10 @@
         {
           "tag": "Plena libre",
           "category": "song title"
+        },
+        {
+          "tag": "fusion",
+          "category": "genre"
         }
       ],
       "uuid": "6f1c02f2-5ce6-4efe-a323-e74beb6a03ba"
