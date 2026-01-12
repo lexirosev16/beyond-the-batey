@@ -876,6 +876,22 @@
         }
       ],
       "uuid": "71ec20ff-0b46-402c-ae3f-b5b594db1e37"
+    },
+    {
+      "start_time": 2825,
+      "end_time": 2830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "868f60e1-bc9d-4fbe-856d-4b5207e5f643"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
