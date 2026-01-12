@@ -1033,11 +1033,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"La bomba mayaguesana\" Delegación del Oeste\n",
+              "text": "\"La bomba Mayaguesana\" Delegación del Oeste",
               "bold": true
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
-              "text": "\n"
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La bomba Mayaguesana "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Renewe de nuevo\n\n"
             }
           ]
         }
