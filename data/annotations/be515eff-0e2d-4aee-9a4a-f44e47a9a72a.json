@@ -1071,6 +1071,31 @@
         }
       ],
       "uuid": "e6a7e541-0732-4650-a5f7-3e0898539560"
+    },
+    {
+      "start_time": 3980,
+      "end_time": 4080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Third song of Delegación del Oeste\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "holandés",
+          "category": "genre"
+        },
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "2e44f245-fbe9-4734-aac7-b76743d27377"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
