@@ -3073,6 +3073,31 @@
         }
       ],
       "uuid": "ee61191b-9a52-489b-9750-13319b57bb01"
+    },
+    {
+      "start_time": 2233,
+      "end_time": 2236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estoy buscando un arbol\" returns.",
+              "bold": true
+            },
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
+        }
+      ],
+      "uuid": "e5cb1565-efdd-473d-a7ee-b65a83196485"
     }
   ],
   "set": "Bomba Films_Raices_Spanish",
