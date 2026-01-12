@@ -2001,6 +2001,26 @@
         {
           "tag": "rap",
           "category": "genre"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "category": "analysis",
+          "tag": "gender"
+        },
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
+          "category": "analysis"
         }
       ],
       "uuid": "77bbd836-dd07-4d44-84c3-ac916ccc2fb6"
