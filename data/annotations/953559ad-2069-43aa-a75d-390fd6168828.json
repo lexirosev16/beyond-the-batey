@@ -3265,6 +3265,61 @@
         }
       ],
       "uuid": "e5cb1565-efdd-473d-a7ee-b65a83196485"
+    },
+    {
+      "start_time": 3118,
+      "end_time": 3120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Rulé Sonda\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rulé, rulé, rulé Sondá"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Repicáme está bomba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rulé Sondá\n\n\n\n\n\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "song title",
+          "tag": "Rulé Sonda"
+        }
+      ],
+      "uuid": "b7050417-58b5-4934-936b-6ee898c0729e"
     }
   ],
   "set": "Bomba Films_Raices_Spanish",
