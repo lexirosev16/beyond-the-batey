@@ -1735,6 +1735,31 @@
         }
       ],
       "uuid": "c6a4da63-9608-4a8a-a94c-04621228a0f6"
+    },
+    {
+      "start_time": 6195,
+      "end_time": 6300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cuembe pa' lo ma' corrido\" Delegación de la Diáspora",
+              "bold": true
+            },
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de la Diáspora",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "d638bb44-c0e8-4afc-b957-ed1475b295af"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
