@@ -103,7 +103,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Coro"
+              "text": "Coro",
+              "bold": true
             }
           ]
         },
@@ -160,7 +161,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Tambores del mar "
+              "text": "Tambores de má(s)"
             }
           ]
         },
@@ -266,6 +267,30 @@
           "children": [
             {
               "text": "Tambores que celebrar"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tambores, tambores de cuero y madera "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tambores, tambores (unintelligible)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah, "
             }
           ]
         }
