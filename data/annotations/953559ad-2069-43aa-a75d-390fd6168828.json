@@ -3026,38 +3026,6 @@
       "uuid": "2cedbfb9-a015-46b0-888f-b0d7efa1716b"
     },
     {
-      "start_time": 5682,
-      "end_time": 5737,
-      "annotation": [],
-      "tags": [
-        {
-          "tag": "Welmo E. Romero Joseph",
-          "category": "speaker"
-        },
-        {
-          "tag": "Soy Libre",
-          "category": "song title"
-        },
-        {
-          "tag": "rap",
-          "category": "genre"
-        },
-        {
-          "tag": "oppression",
-          "category": "analysis"
-        },
-        {
-          "tag": "resistance",
-          "category": "analysis"
-        },
-        {
-          "category": "analysis",
-          "tag": "ecological"
-        }
-      ],
-      "uuid": "9d959497-efee-4cfa-b584-0ba634c1ccba"
-    },
-    {
       "start_time": 5700,
       "end_time": 5954,
       "annotation": [
