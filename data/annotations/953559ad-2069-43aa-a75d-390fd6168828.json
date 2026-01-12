@@ -2455,7 +2455,60 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Así un poco difícil tocar los otros dos ritmos que eran el yuba y el holandés. ¿Qué pasa? Todos los números los puse toco en forma de sicá en dos.\n“Bambule” (Santurce) b“¡Vamos todos a bailar bambulae vamos todos a bailar bomba bambulae!”Así tocaba señores  ¡Vamos todos a bailar a bambulae!"
+              "text": "Así un poco difícil tocar los otros dos ritmos que eran el yuba y el holandés. ¿Qué pasa? Todos los números los puse toco en forma de sicá en dos.\n"
+            },
+            {
+              "text": "“Bambulé” (Santurce) ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos todos a bailar bambulé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos todos a bailar bomba bambulé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así tocaba señores "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vamos todos a bailar a bambulé"
             }
           ]
         }
@@ -2464,6 +2517,10 @@
         {
           "tag": "Don Rafael Cepeda Atiles",
           "category": "speaker"
+        },
+        {
+          "category": "song title",
+          "tag": "Bambulé"
         }
       ],
       "uuid": "5559928f-15a8-4a47-aaeb-364e401034ba"
