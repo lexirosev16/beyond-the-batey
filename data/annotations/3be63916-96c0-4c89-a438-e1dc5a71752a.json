@@ -1287,6 +1287,31 @@
         }
       ],
       "uuid": "4131a9a7-fadb-460a-8ec8-23e2818120ee"
+    },
+    {
+      "start_time": 2233,
+      "end_time": 2236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estoy buscando un arbol\"",
+              "bold": true
+            },
+            {
+              "text": " returns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Estoy Buscando un Arbol",
+          "category": "song title"
+        }
+      ],
+      "uuid": "d97d052a-2883-483b-9136-45d96610893e"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
