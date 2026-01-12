@@ -3345,7 +3345,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Welmo raps the following. Suena la tambor que asi corazon alerta mi raza se escapa un cimarron el sonido de tamore diosas lo guia reunian mencion un memroia con su paso pega "
+              "text": "Welmo raps the following. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suena su tambor que asi corazon alerta mi raza se escapa un cimarron el sonido de tamore diosas lo guia reunian mencion un memroia con su paso pega "
             }
           ]
         }
