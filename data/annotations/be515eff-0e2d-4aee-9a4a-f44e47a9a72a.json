@@ -1,1 +1,28 @@
-{"annotations":[],"set":"2018 Encuentro de Tambores_Annotations","event_id":"61328fdd-bda2-4c05-8917-ac2ad5b8270b","source_id":"2bc3c569-475c-4b80-b6c1-25578af61517"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introductions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "21818c91-6355-42d9-9871-69adb2b56b6a"
+    }
+  ],
+  "set": "2018 Encuentro de Tambores_Annotations",
+  "event_id": "61328fdd-bda2-4c05-8917-ac2ad5b8270b",
+  "source_id": "2bc3c569-475c-4b80-b6c1-25578af61517"
+}
