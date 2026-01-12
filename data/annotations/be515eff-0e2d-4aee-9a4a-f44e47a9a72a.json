@@ -1386,6 +1386,61 @@
         }
       ],
       "uuid": "f24e7b81-2f3d-425f-a583-ed31f5128560"
+    },
+    {
+      "start_time": 5101,
+      "end_time": 5160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Los tambores estan sonando\" Delegación de Loíza\nCoro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los tambores estan sonando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los tambores estan llamando"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Digame, digame pa' Loiza esta repicando."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "b2b349ee-45e7-4205-94c3-35897a8b7fde"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
