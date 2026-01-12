@@ -1650,13 +1650,13 @@
     },
     {
       "start_time": 5980,
-      "end_time": 6060,
+      "end_time": 6150,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"La tradicion de bomba de verdad\"  Delegación de la Diáspora",
+              "text": "\"La tradicion que la bomba de verdad\"  Delegación de la Diáspora",
               "bold": true
             }
           ]
@@ -1698,7 +1698,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "La tradicion de bomba de verdad "
+              "text": "La tradicion que la bomba de verdad "
             }
           ]
         },
