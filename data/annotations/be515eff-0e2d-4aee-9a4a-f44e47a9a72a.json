@@ -1348,6 +1348,44 @@
       ],
       "tags": [],
       "uuid": "dffccbe3-324c-4383-a550-8fae49e1b3e7"
+    },
+    {
+      "start_time": 4990,
+      "end_time": 5040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegación de Loíza",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "First song of their set\n"
+            },
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        },
+        {
+          "category": "analysis",
+          "tag": "Loiza"
+        }
+      ],
+      "uuid": "f24e7b81-2f3d-425f-a583-ed31f5128560"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
