@@ -1024,6 +1024,31 @@
         }
       ],
       "uuid": "3c50add0-5961-44d8-9881-b18b365fabbf"
+    },
+    {
+      "start_time": 3784,
+      "end_time": 3960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La bomba mayaguesana\" Delegación del Oeste\n",
+              "bold": true
+            },
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "e6a7e541-0732-4650-a5f7-3e0898539560"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
