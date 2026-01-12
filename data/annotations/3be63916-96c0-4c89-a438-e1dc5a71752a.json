@@ -1254,6 +1254,39 @@
         }
       ],
       "uuid": "24ac68e3-a965-4b1f-9e7f-ff159fd9c129"
+    },
+    {
+      "start_time": 2198,
+      "end_time": 2220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps again. The sensation of taste, the touch of the fabric, and the sweat mingle together. Heartbeats quicken, a feverish temperature that healed him. Don't be silent, for if I am silent, I am not free. Calling and responding, resistance and audacity, even with the chains 24 hours a day. My voice travels actively, knowing that perhaps I will never see the light of day again. Drum, give me the essence of the sound of your soul. Drum, watch over my sleep with your sweet melody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "Welmo E. Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "category": "speaker",
+          "tag": "Welmo E Romero Joseph"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        }
+      ],
+      "uuid": "4131a9a7-fadb-460a-8ec8-23e2818120ee"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
