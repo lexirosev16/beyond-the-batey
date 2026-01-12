@@ -1440,6 +1440,81 @@
         }
       ],
       "uuid": "dac5e126-b6d5-4b98-89ce-ae64eff5e636"
+    },
+    {
+      "start_time": 2418,
+      "end_time": 2520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Stick and flag\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stick and flag, cot frame, not with me"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You have a long face like the mule at the clothesline"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you have skinny legs like a beach bum"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stick and flag, cot frame, not with me, you have a long face like the mule at the clothesline, you have skinny legs like a beach bum"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And learn to have respect, learn to respect me, don't be a troublemaker like a beach bum"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Nellie LeBrón y Paracumbé",
+          "category": "speaker"
+        },
+        {
+          "tag": "Palo'e bandera",
+          "category": "song title"
+        }
+      ],
+      "uuid": "abea1e68-0132-4525-9717-eb4b1c75c094"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
