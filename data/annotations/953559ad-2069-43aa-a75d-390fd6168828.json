@@ -3336,6 +3336,35 @@
       ],
       "tags": [],
       "uuid": "686718fb-cadc-4172-a2d9-525f7bd058ce"
+    },
+    {
+      "start_time": 3155,
+      "end_time": 3180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welmo raps the following. Suena la tambor que asi corazon alerta mi raza se escapa un cimarron el sonido de tamore diosas lo guia reunian mencion un memroia con su paso pega "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E. Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "category": "speaker",
+          "tag": "Welmo E Romero Joseph"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        }
+      ],
+      "uuid": "3b30ab10-b81e-46db-95d0-0e0524aae895"
     }
   ],
   "set": "Bomba Films_Raices_Spanish",
