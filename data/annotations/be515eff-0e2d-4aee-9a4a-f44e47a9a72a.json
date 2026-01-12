@@ -1457,6 +1457,35 @@
         }
       ],
       "uuid": "b2b349ee-45e7-4205-94c3-35897a8b7fde"
+    },
+    {
+      "start_time": 5259,
+      "end_time": 5280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "seis corrido",
+          "category": "genre"
+        },
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        },
+        {
+          "category": "analysis",
+          "tag": "Loiza"
+        }
+      ],
+      "uuid": "42948195-5ea7-40ab-ad61-235ffa3636fb"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
