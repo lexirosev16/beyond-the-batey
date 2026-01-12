@@ -3037,6 +3037,18 @@
         {
           "tag": "Soy Libre",
           "category": "song title"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
         }
       ],
       "uuid": "9d959497-efee-4cfa-b584-0ba634c1ccba"
