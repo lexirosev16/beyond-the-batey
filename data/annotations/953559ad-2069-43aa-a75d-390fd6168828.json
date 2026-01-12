@@ -2226,14 +2226,14 @@
       "uuid": "48ced049-15af-4531-9f33-de1dcaa162b3"
     },
     {
-      "start_time": 2824,
-      "end_time": 0,
+      "start_time": 2820,
+      "end_time": 2880,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Manuel Jimenez el canario"
+              "text": "Manuel Jimenez, \"El Canario\"."
             }
           ]
         }
