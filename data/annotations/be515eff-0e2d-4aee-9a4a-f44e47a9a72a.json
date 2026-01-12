@@ -29,7 +29,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Suena los Tambores\"",
+              "text": "\"Suena los Tambores\" Delegación del Sur directed by Jose Archeval",
               "bold": true
             }
           ]
@@ -303,6 +303,10 @@
         {
           "tag": "Suena los tambores",
           "category": "song title"
+        },
+        {
+          "category": "genre",
+          "tag": "cuembé"
         }
       ],
       "uuid": "9acbb37c-12ef-4ef6-a43f-ac6d6dfeb3ca"
