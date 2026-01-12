@@ -846,6 +846,36 @@
         }
       ],
       "uuid": "c7ec04a6-2182-4fac-98f0-b61a9846781d"
+    },
+    {
+      "start_time": 2500,
+      "end_time": 2520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La negra pancha\" Delegacion de las Carolinas",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "seis corrido",
+          "category": "genre"
+        }
+      ],
+      "uuid": "71ec20ff-0b46-402c-ae3f-b5b594db1e37"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
