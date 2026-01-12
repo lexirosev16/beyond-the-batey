@@ -1332,6 +1332,22 @@
         }
       ],
       "uuid": "7c6a1f7e-3b6a-4d9b-9266-df637a73f698"
+    },
+    {
+      "start_time": 4930,
+      "end_time": 4980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition. Delegation del Cangrejos is directed by Pablo Luis Rivera. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dffccbe3-324c-4383-a550-8fae49e1b3e7"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
