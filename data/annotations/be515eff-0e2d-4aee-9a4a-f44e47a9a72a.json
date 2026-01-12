@@ -1231,6 +1231,50 @@
         }
       ],
       "uuid": "b87772bd-924e-479d-9a05-684d67a5b3f7"
+    },
+    {
+      "start_time": 4573,
+      "end_time": 4680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Santera\" Delegación de los Cangrejos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        }
+      ],
+      "uuid": "b530440b-1906-40a5-9ae5-755e38231ad4"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
