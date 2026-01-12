@@ -1307,6 +1307,31 @@
         }
       ],
       "uuid": "b530440b-1906-40a5-9ae5-755e38231ad4"
+    },
+    {
+      "start_time": 4710,
+      "end_time": 4800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegación de los Cangrejos",
+              "bold": true
+            },
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de los Cangrejos",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "7c6a1f7e-3b6a-4d9b-9266-df637a73f698"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
