@@ -1438,6 +1438,14 @@
         {
           "tag": "Delegación de Loíza",
           "category": "delegation"
+        },
+        {
+          "category": "genre",
+          "tag": "corvé"
+        },
+        {
+          "category": "analysis",
+          "tag": "Loiza"
         }
       ],
       "uuid": "b2b349ee-45e7-4205-94c3-35897a8b7fde"
