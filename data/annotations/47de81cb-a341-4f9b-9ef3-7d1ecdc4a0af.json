@@ -1,5 +1,82 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1480,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"How Do You Expect?\" Southern Delegation",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you expect me to love you?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you expect me to adore you?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you want it that way, that way, hearts will weep."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verses",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "domestic violence",
+          "category": "analysis"
+        },
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "7adeea3c-661c-4126-9479-1b8f25e0c65c"
+    }
+  ],
   "event_id": "61328fdd-bda2-4c05-8917-ac2ad5b8270b",
   "set": "2018 Encuentro de Tambores_Annotations_English",
   "source_id": "2bc3c569-475c-4b80-b6c1-25578af61517"
