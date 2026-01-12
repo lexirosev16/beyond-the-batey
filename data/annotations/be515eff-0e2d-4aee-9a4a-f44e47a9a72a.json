@@ -1005,6 +1005,22 @@
         {
           "tag": "Delegación del Oeste",
           "category": "delegation"
+        },
+        {
+          "category": "analysis",
+          "tag": "ecological"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural pride",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural heritage",
+          "category": "analysis"
         }
       ],
       "uuid": "3c50add0-5961-44d8-9881-b18b365fabbf"
