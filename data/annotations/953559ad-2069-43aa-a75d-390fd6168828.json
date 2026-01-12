@@ -2254,7 +2254,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Seshuque Y Balance  Grupo Afro Boriqua (1998)  b"
+              "text": "\"Seshuque Y Balance\" Grupo Afro Boricua (1998) ",
+              "bold": true
             }
           ]
         }
@@ -2263,6 +2264,14 @@
         {
           "tag": "bomba",
           "category": "genre"
+        },
+        {
+          "tag": "Sesahuque y Balance",
+          "category": "song title"
+        },
+        {
+          "tag": "Grupo Afro Boricua",
+          "category": "speaker"
         }
       ],
       "uuid": "ef79451b-d4b4-4bc2-a8b3-38341862dc0d"
