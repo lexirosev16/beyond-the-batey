@@ -300,6 +300,46 @@
         }
       ],
       "uuid": "9acbb37c-12ef-4ef6-a43f-ac6d6dfeb3ca"
+    },
+    {
+      "start_time": 1480,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"add song\" Delegación del Sur",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "6f1c02f2-5ce6-4efe-a323-e74beb6a03ba"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
