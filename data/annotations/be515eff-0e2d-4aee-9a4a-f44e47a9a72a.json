@@ -1760,6 +1760,22 @@
         }
       ],
       "uuid": "d638bb44-c0e8-4afc-b957-ed1475b295af"
+    },
+    {
+      "start_time": 6420,
+      "end_time": 9960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition.The batey is opened up to the general public. Marien mentions the original founder of the Encuentro de tambores Norma Salazar. This section is called the \"gran toque de bomba.\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c981537e-7984-4cb1-b21f-259f1101b826"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
