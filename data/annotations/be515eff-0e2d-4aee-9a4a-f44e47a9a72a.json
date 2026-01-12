@@ -303,7 +303,7 @@
     },
     {
       "start_time": 1480,
-      "end_time": 1560,
+      "end_time": 1650,
       "annotation": [
         {
           "type": "paragraph",
@@ -327,7 +327,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Cómo tu pretendes que yo te quiera?\nCómo tu pretendes que yo te adore?\nEn esa manera, en esa manera, llora(n) las corazones. \n"
+              "text": "Cómo tu pretendes que yo te quiera?\nCómo tu pretendes que yo te adore?"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si te quieres en esa manera, en esa manera, llora(n) las corazones. \n"
             },
             {
               "text": "Versos",
