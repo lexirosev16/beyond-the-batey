@@ -2275,7 +2275,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Yubá La Marilé"
+              "text": "\"Yubá, la Marilé\"",
+              "bold": true
             }
           ]
         }
