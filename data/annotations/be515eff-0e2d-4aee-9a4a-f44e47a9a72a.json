@@ -1096,6 +1096,22 @@
         }
       ],
       "uuid": "2e44f245-fbe9-4734-aac7-b76743d27377"
+    },
+    {
+      "start_time": 4200,
+      "end_time": 4260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition to another delegation."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3342d60d-557f-4027-aed8-f02adffed475"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
