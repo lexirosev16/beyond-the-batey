@@ -737,6 +737,31 @@
         }
       ],
       "uuid": "7cc724c8-e7ae-49d4-a233-413ca80bf008"
+    },
+    {
+      "start_time": 2131,
+      "end_time": 2160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegacion del Carolina begins their set. Setting up drums. Transitionary period."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación de las Carolinas",
+          "category": "delegation"
+        },
+        {
+          "tag": "distortion",
+          "category": "environment"
+        }
+      ],
+      "uuid": "4acbf976-8191-4e5c-b648-b90915282ba0"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
