@@ -3028,22 +3028,7 @@
     {
       "start_time": 5682,
       "end_time": 5737,
-      "annotation": [
-        {
-          "text": "In this segment an electric guitar melody can be heard and it transitions into the following partial song. The song \"Soy Libre\" is political in nature commenting on the nature of freedom and colonialism in Puerto Rico by drawing comparisons of freedom in relation to ecology and culture. It is a powerful close to a film that touches on themes of colonialism rather sparingly.  "
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": "Soy Libre, soy libre. Libre como el río que en el mar desemboca. Libre las palabras que saltan de mi boca. Libre decido y alcanzo lo que quiero y aunque presto esté mi cuerpo. Es mi mente la que elevo. Libre es el aire que respiro desde el momento en que nazco. Hasta el último suspiro. Libre como el suelo de una isla que se expande. Libre es mi pueblo y ante balas no se rinde. Libre y soy libre. Libre y soy libre. "
-        }
-      ],
+      "annotation": [],
       "tags": [
         {
           "tag": "Welmo E. Romero Joseph",
