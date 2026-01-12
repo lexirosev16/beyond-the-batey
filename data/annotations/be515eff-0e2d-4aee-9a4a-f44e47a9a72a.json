@@ -893,6 +893,36 @@
       ],
       "tags": [],
       "uuid": "868f60e1-bc9d-4fbe-856d-4b5207e5f643"
+    },
+    {
+      "start_time": 2868,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegacion del Este. First song of their set. ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "4bb33e5b-c5ff-456b-8f98-c65d4e8430f0"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
