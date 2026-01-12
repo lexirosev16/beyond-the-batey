@@ -3049,6 +3049,10 @@
         {
           "tag": "resistance",
           "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "ecological"
         }
       ],
       "uuid": "9d959497-efee-4cfa-b584-0ba634c1ccba"
