@@ -23,18 +23,23 @@
     },
     {
       "start_time": 1005,
-      "end_time": 0,
+      "end_time": 1320,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "First Delegation"
+              "text": "First Delegation Ponce"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        }
+      ],
       "uuid": "9acbb37c-12ef-4ef6-a43f-ac6d6dfeb3ca"
     }
   ],
