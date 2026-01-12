@@ -603,7 +603,7 @@
       "uuid": "cab0a625-b0da-4709-9df0-2a32abb4f901"
     },
     {
-      "start_time": 1830,
+      "start_time": 1835,
       "end_time": 1950,
       "annotation": [
         {
@@ -623,7 +623,7 @@
               "bold": true
             },
             {
-              "text": "\nMi negro cojanlo suave ..."
+              "text": "\nMi negro cojanlo suave ... se paso ... la"
             }
           ]
         },
@@ -631,7 +631,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mi negro cojanlo suave  "
+              "text": "Mi negro cojanlo suave, .....me queda.."
             }
           ]
         },
@@ -639,7 +639,56 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mirame lo ....\n\n"
+              "text": "Mi negro cojanlos suave, mirame lo ..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angolas"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suave, suave buleador "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sigue, sigue dando "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, mi negro "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, lo miro mi corazon "
             }
           ]
         }
@@ -656,6 +705,10 @@
         {
           "tag": "holandés",
           "category": "genre"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
         }
       ],
       "uuid": "19b65716-883b-41ae-b835-b67b9ddde01f"
