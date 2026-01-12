@@ -3339,7 +3339,7 @@
     },
     {
       "start_time": 3155,
-      "end_time": 3180,
+      "end_time": 3188,
       "annotation": [
         {
           "type": "paragraph",
@@ -3441,6 +3441,14 @@
         },
         {
           "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        },
+        {
+          "tag": "cultural memory",
           "category": "analysis"
         }
       ],
