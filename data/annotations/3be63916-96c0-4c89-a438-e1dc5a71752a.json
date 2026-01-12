@@ -1772,6 +1772,27 @@
         }
       ],
       "uuid": "38abdfef-fc1a-4e3f-828f-3df3cb40239e"
+    },
+    {
+      "start_time": 2820,
+      "end_time": 2850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Manuel Jimenez, \"El Canario\".\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Manuel Jimenez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "8bba6c21-c61d-4fda-9aa1-286eecf59238"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
