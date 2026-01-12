@@ -2477,10 +2477,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "In this segment an electric guitar melody can be heard and it transitions into the following partial song. The song \"Soy Libre\" is political in nature commenting on the nature of freedom and colonialism in Puerto Rico by drawing comparisons of freedom in relation to ecology and culture. It is a powerful close to the film.\n"
-            },
+              "text": "In this segment, an electric guitar melody can be heard, and it transitions into the following partial song. The song \"Soy Libre\" is political in nature, commenting on the nature of freedom and colonialism in Puerto Rico by drawing comparisons between freedom and ecology and culture. It is a powerful ending to the film."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
-              "text": "“Soy Libre”",
+              "text": "“I Am Free”",
               "bold": true
             }
           ]
@@ -2489,7 +2494,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Soy libre, soy libre"
+              "text": "I am free, I am free"
             }
           ]
         },
@@ -2497,7 +2502,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Libre como el río que en el mar\ndesemboca"
+              "text": "Free like the river that flows into the sea"
             }
           ]
         },
@@ -2505,7 +2510,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Libre las palabras que saltan de mi boca"
+              "text": "Free are the words that leap from my mouth"
             }
           ]
         },
@@ -2513,7 +2518,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Libre decido y alcanzo lo que quiero y aunque presto esté mi cuerpo"
+              "text": "Freely I decide and achieve what I want, and although my body may be bound"
             }
           ]
         },
@@ -2521,7 +2526,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Es mi mente la que elevo"
+              "text": "It is my mind that I elevate"
             }
           ]
         },
@@ -2529,7 +2534,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Libre es el aire que respiro desde el momento en que nazco"
+              "text": "Free is the air I breathe from the moment I am born"
             }
           ]
         },
@@ -2537,7 +2542,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Hasta el último suspiro"
+              "text": "Until my last breath"
             }
           ]
         },
@@ -2545,7 +2550,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Libre como el suelo de una isla que se expande"
+              "text": "Free like the soil of an island that expands"
             }
           ]
         },
@@ -2553,7 +2558,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Libre es mi pueblo y ante balas no se rinde"
+              "text": "Free is my people, and they do not surrender in the face of bullets"
             }
           ]
         },
@@ -2561,7 +2566,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Libre y soy libre"
+              "text": "Free, and I am free"
             }
           ]
         },
@@ -2569,7 +2574,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Libre y soy libre"
+              "text": "Free, and I am free"
             }
           ]
         }
