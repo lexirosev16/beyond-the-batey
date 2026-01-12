@@ -923,6 +923,28 @@
         }
       ],
       "uuid": "4bb33e5b-c5ff-456b-8f98-c65d4e8430f0"
+    },
+    {
+      "start_time": 3480,
+      "end_time": 3510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition to the Delegacion del Oeste",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delegación del Oeste",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "043a969a-406f-4909-a643-996b6598a511"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
