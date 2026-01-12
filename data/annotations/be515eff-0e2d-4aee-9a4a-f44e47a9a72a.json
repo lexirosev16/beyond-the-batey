@@ -601,6 +601,31 @@
         }
       ],
       "uuid": "cab0a625-b0da-4709-9df0-2a32abb4f901"
+    },
+    {
+      "start_time": 1810,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Delegación del Sur",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "19b65716-883b-41ae-b835-b67b9ddde01f"
     }
   ],
   "set": "2018 Encuentro de Tambores_Annotations",
