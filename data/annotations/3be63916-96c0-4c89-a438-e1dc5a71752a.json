@@ -2468,6 +2468,143 @@
         }
       ],
       "uuid": "a2026445-2db1-42fc-887a-0cb8117f2fc2"
+    },
+    {
+      "start_time": 5682,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this segment an electric guitar melody can be heard and it transitions into the following partial song. The song \"Soy Libre\" is political in nature commenting on the nature of freedom and colonialism in Puerto Rico by drawing comparisons of freedom in relation to ecology and culture. It is a powerful close to the film.\n"
+            },
+            {
+              "text": "“Soy Libre”",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Soy libre, soy libre"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libre como el río que en el mar\ndesemboca"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libre las palabras que saltan de mi boca"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libre decido y alcanzo lo que quiero y aunque presto esté mi cuerpo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es mi mente la que elevo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libre es el aire que respiro desde el momento en que nazco"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hasta el último suspiro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libre como el suelo de una isla que se expande"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libre es mi pueblo y ante balas no se rinde"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libre y soy libre"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Libre y soy libre"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Welmo E. Romero Joseph",
+          "category": "speaker"
+        },
+        {
+          "category": "speaker",
+          "tag": "Welmo E Romero Joseph"
+        },
+        {
+          "tag": "rap",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "ecological"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "Identity"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "b0dd2e1d-cd91-4908-b1d4-0050a112ece4"
     }
   ],
   "event_id": "99d8a9f8-80f8-48d2-a5f3-169b46565ce7",
