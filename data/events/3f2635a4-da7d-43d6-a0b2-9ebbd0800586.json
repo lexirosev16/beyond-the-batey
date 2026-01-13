@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "50f07ab3-4d72-4a40-9f76-c14b0071ca2d": {
-      "label": "\"Cultura\" Puya",
+      "label": "Cultura Puya",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/oF6vOOANfFI",
@@ -23,12 +23,12 @@
     }
   ],
   "citation": "",
-  "label": "Cultura Puya",
+  "label": "\"Cultura\" Puya",
   "av_file_order": [
     "50f07ab3-4d72-4a40-9f76-c14b0071ca2d"
   ],
   "created_at": "2026-01-11T21:54:03.324Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-13T01:31:20.654Z",
+  "updated_at": "2026-01-13T03:16:15.569Z",
   "updated_by": "lexirosev16"
 }
