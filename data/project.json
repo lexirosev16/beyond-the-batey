@@ -16,20 +16,14 @@
     "github_org": "lexirosev16",
     "is_private": false,
     "title": "Beyond the Batey ",
-    "description": "This AVannotate project will focus on bomba performances featured at festivals, in films, and in commercial music videos. ",
+    "description": "\"Beyond the Batey,\" is an AVAnnotate Project, created by Ph.D. candidate in Ethnomusicology, Alexis R. Velazquez. It is a digital collection of audiovisual materials documenting bomba, an Afro–Puerto Rican music-dance practice, across commercial music, community festivals, and independent films. Compiled between September 2025 and January 2026, the site brings together YouTube recordings ranging from contemporary artists such as Rauw Alejandro, Residente, Puya, and Esoterica Tropical to community-based performances such as the Encuentro de Tambores, Encuentro de Cantaoras, and Magia de los Tambores, from 2018–2025.\n\nThe platform offers time-stamped annotations that include cantos, dance sequences, and interviews, as well as films such as Zafra Fusion Cepeda (1983), Raíces (2001), and Resistimos (2021). Through bilingual transcription and detailed labeling of subgenres, song titles, performers, and sociocultural themes—including cultural memory, Blackness, feminism, and labor—the project makes bomba materials more accessible and searchable for researchers and the public.\n\nWhat makes this project especially valuable is its transformation of dispersed public recordings into an organized scholarly resource. Because most letras de bomba are not available in published form, each transcription required extensive listening and close analysis, offering deeper insight into lyrical content, and recurring themes within the tradition. By centralizing and annotating these materials, the project supports future scholarship and practice while preserving key elements of bomba’s cultural and musical history.",
     "language": "en",
     "slug": "beyond-the-batey",
     "creator": "lexirosev16",
     "authors": "Alexis R. Velazquez",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "tanyaclement",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -1137,7 +1131,7 @@
       ]
     },
     "created_at": "2026-01-04T06:01:24.296Z",
-    "updated_at": "2026-01-12T03:06:36.522Z",
+    "updated_at": "2026-01-13T01:01:29.980Z",
     "generate_pages_site": true
   },
   "annotations": {},
