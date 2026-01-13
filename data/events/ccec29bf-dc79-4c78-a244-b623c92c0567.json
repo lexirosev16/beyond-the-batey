@@ -14,34 +14,6 @@
       "set_sort": [],
       "duration_overridden": true
     },
-    "9fd408d3-ac79-4232-ad87-db2a69fc3f64": {
-      "label": "Resistimos",
-      "is_offline": false,
-      "file_type": "Video",
-      "file_url": "https://youtu.be/01zKwBU4nAw?si=FCAGfIhzw32inRCd",
-      "duration": 3658,
-      "caption_set": [
-        {
-          "annotation_page_id": "b1a1b2b1-a3a4-4ccd-b25e-d48dbac14d51"
-        }
-      ],
-      "set_sort": [],
-      "duration_overridden": true
-    },
-    "1475bf60-2b23-4fcb-8a65-bfa7a0110f17": {
-      "label": "Raices",
-      "is_offline": false,
-      "file_url": "https://www.youtube.com/watch?v=7wCnrrN9Gak",
-      "duration": 5954,
-      "caption_set": [
-        {
-          "annotation_page_id": "b027deef-7ffc-48b5-ab35-7f8280b78d35"
-        }
-      ],
-      "set_sort": [],
-      "file_type": "Video",
-      "duration_overridden": true
-    },
     "c2214624-5093-4fa7-93cb-79fa5bfa48ed": {
       "label": "Zafra Fusion Cepeda Part Four",
       "is_offline": false,
@@ -113,12 +85,10 @@
     "a3cd73fb-ccf2-40f3-9169-549dbed3f3eb",
     "6f7abdbe-9cea-43a3-b682-3d82b1df5226",
     "c2214624-5093-4fa7-93cb-79fa5bfa48ed",
-    "8918896a-0c7f-40a4-bd37-3e9242cde55d",
-    "9fd408d3-ac79-4232-ad87-db2a69fc3f64",
-    "1475bf60-2b23-4fcb-8a65-bfa7a0110f17"
+    "8918896a-0c7f-40a4-bd37-3e9242cde55d"
   ],
   "created_at": "2026-01-04T06:42:50.815Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-13T03:23:31.497Z",
+  "updated_at": "2026-01-13T03:24:34.874Z",
   "updated_by": "lexirosev16"
 }
