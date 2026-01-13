@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "702ad805-ea18-4b37-9350-099659c5e986": {
-      "label": "Huracan Esotérica Tropical",
+      "label": "\"Huracan\" Esotérica Tropical",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://youtu.be/4Iiyicb0n6w?si=heP6ELVwz4ZeMVzu",
@@ -23,12 +23,12 @@
     }
   ],
   "citation": "",
-  "label": "\"Huracan\" Esoterica Tropical",
+  "label": "Huracan Esoterica Tropical",
   "av_file_order": [
     "702ad805-ea18-4b37-9350-099659c5e986"
   ],
   "created_at": "2026-01-04T06:47:59.103Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-11T21:58:46.557Z",
+  "updated_at": "2026-01-13T01:32:12.077Z",
   "updated_by": "lexirosev16"
 }
