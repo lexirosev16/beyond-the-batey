@@ -1683,6 +1683,34 @@
       ],
       "tags": [],
       "uuid": "5adc6c27-a10b-4b2d-ae22-b0b6b29f8e72"
+    },
+    {
+      "start_time": 204,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jesús Cepeda habla sobre su abuelo, Don Rafael Cepeda Atiles. Menciona que escribió un artículo para "
+            },
+            {
+              "text": "El Mundo",
+              "italic": true
+            },
+            {
+              "text": " con el propósito de la preservación cultural."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jesus Cepeda",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "d77a1bf9-83ce-46bb-9530-c51ca03f7901"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
