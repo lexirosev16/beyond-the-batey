@@ -182,6 +182,70 @@
         }
       ],
       "uuid": "520d35ab-4175-4c88-ab23-10178919b117"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Los paleros\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro:",
+              "bold": true
+            },
+            {
+              "text": " Los paleros, los paleros, los paleros de boca chica que los gobierna Goyo Mangual"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voy pa' la central Mercedita, pero la cana voy a emburrar, con las paleros de boca chica que los gobierna Goyo Mangual"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "2b9dd69d-5ecf-457f-b7ba-a947584200d1"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
