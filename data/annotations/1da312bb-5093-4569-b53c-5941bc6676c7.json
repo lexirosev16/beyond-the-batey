@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "a6cfa5b9-7ea5-47ef-b335-35fd98ccd2da"
+    },
+    {
+      "start_time": 166,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entrevista con Maribella Burgo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9ee092e-1672-4d18-ba4b-b4e90912b055"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
