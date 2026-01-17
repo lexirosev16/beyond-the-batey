@@ -98,7 +98,16 @@
           "children": [
             {
               "bold": true,
-              "text": "Coro: "
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": " "
             },
             {
               "text": "Liberté, liberté!"
