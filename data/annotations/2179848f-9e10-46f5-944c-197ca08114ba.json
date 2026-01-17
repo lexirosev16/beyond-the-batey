@@ -83,7 +83,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Maria Luisa\""
+              "text": "\"Maria Luisa\"",
+              "bold": true
             }
           ]
         },
