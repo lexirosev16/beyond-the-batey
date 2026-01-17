@@ -186,8 +186,66 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"La Bomba en Barile\"",
+              "text": "\"Son Barrilé\"",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son, son, son barrilé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son montefina, son balancé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son montefina, son balancé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son barrilé, son barrilé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baila la bomba en un solo pie"
             }
           ]
         }
@@ -196,6 +254,14 @@
         {
           "tag": "Don Rafael Cepeda Atiles",
           "category": "speaker"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "c7e883ec-18bd-4d6c-9efd-b60e521b577f"
