@@ -1205,7 +1205,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Cary Cepeda discusses the suffering, and labor required of carrying on the legacy of bomba. They had to carry heavy drums very far to neighboring towns. "
+              "text": "Cary Cepeda habla del sufrimiento y del esfuerzo que implica mantener viva la herencia de la bomba. Relata cómo los mayores tenían que cargar tambores pesados y transportarlos largas distancias hasta pueblos vecinos, todo por el compromiso de preservar y compartir esta tradición ancestral. Su testimonio resalta el sacrificio físico y emocional que ha sostenido la práctica de la bomba a lo largo de generaciones."
             }
           ]
         }
@@ -1222,6 +1222,10 @@
         {
           "tag": "cultural heritage",
           "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "sustainability"
         }
       ],
       "uuid": "64af3ef7-fef3-4118-aa44-48ef0e3074d2"
