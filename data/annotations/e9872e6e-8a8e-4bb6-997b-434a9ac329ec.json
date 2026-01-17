@@ -1630,6 +1630,38 @@
         }
       ],
       "uuid": "c934f948-6160-4610-9fe9-91d5e28fd005"
+    },
+    {
+      "start_time": 2260,
+      "end_time": 2263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una madre baila con su bebé en la cadera en Río Piedras, encarnando la transmisión viva de la bomba de generación en generación. Mientras se mueve al ritmo del tambor, suena la canción "
+            },
+            {
+              "text": "“Goza de la bomba.” ",
+              "bold": true
+            },
+            {
+              "text": "El coro es \"goza de la bomba, goza.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Goza de la bomba",
+          "category": "song title"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        }
+      ],
+      "uuid": "183c0488-81e1-4ff4-8f63-00be5d4eaa4a"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
