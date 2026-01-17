@@ -370,7 +370,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"aaa\"",
+              "text": "\"Llevamé la falda\"",
               "bold": true
             }
           ]
@@ -388,7 +388,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Llega con (estada), con mis ancestros"
+              "text": "Llega con (estada), con mis ancestra(s)"
             }
           ]
         },
@@ -396,15 +396,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Llevamé la falda de mi(s) ancestras."
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ay, triame la maraca y la falda y que voy a cantar!"
+              "text": "Llevamé la falda y una maraca que yo voy a cantar!"
             }
           ]
         },
@@ -414,6 +406,30 @@
             {
               "text": "Versos",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuembe a baile."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y que llave con ustedes..."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Busca una falda y una maraca, que voy a cantar!"
             }
           ]
         }
