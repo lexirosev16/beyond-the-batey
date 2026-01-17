@@ -1,12 +1,16 @@
 {
   "audiovisual_files": {
     "bd34caa8-32dd-4867-b060-a078fa0baa20": {
-      "label": "Encuentro de Cantaoras",
+      "label": "Primer Encuentro de Cantaoras",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://youtu.be/2iNpSWPfnNw?si=mgCrUdkXGFkHRXJE",
-      "duration": 1103,
-      "caption_set": [],
+      "file_url": "https://youtu.be/JVPQ4eKwJoM?si=chCB7pej0DGmbsEw",
+      "duration": 3033,
+      "caption_set": [
+        {
+          "annotation_page_id": "1da312bb-5093-4569-b53c-5941bc6676c7"
+        }
+      ],
       "set_sort": [],
       "duration_overridden": true
     }
@@ -22,13 +26,13 @@
       ]
     }
   ],
-  "citation": "",
+  "citation": "FJM Photo",
   "label": "Bomba Festivals: 2021 Encuentro de Cantaoras",
   "av_file_order": [
     "bd34caa8-32dd-4867-b060-a078fa0baa20"
   ],
   "created_at": "2026-01-11T21:33:48.351Z",
   "created_by": "lexirosev16",
-  "updated_at": "2026-01-13T03:21:38.134Z",
+  "updated_at": "2026-01-17T00:45:57.343Z",
   "updated_by": "lexirosev16"
 }
