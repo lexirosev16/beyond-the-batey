@@ -1364,66 +1364,6 @@
       "uuid": "48c22573-fcbf-444f-84f3-8929a37e1c79"
     },
     {
-      "start_time": 3310,
-      "end_time": 3340,
-      "annotation": [
-        {
-          "text": "Unidentified bomba song",
-          "bold": true
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": "Coro",
-          "bold": true
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": "Los cimmarones"
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ivelisse Diaz",
-          "category": "speaker"
-        },
-        {
-          "tag": "Delegación de la Diáspora",
-          "category": "delegation"
-        },
-        {
-          "tag": "Blackness",
-          "category": "analysis"
-        },
-        {
-          "tag": "resistance",
-          "category": "analysis"
-        }
-      ],
-      "uuid": "58d69492-4520-48d2-b402-020750cf6e50"
-    },
-    {
       "start_time": 3400,
       "end_time": 3443,
       "annotation": [
