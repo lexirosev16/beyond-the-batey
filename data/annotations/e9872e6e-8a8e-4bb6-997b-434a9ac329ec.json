@@ -1039,7 +1039,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Marien discusses the first time she saw a woman break the gender barrier in a baile de bomba by playing the drum."
+              "text": "Marien relata la primera vez que presenció a una mujer romper la barrera de género en un baile de bomba al tocar el barril. Fue un momento impactante y transformador, ya que tradicionalmente el tambor ha sido un espacio dominado por hombres dentro de esta práctica cultural. Ver a una mujer asumir ese rol no solo desafió las normas establecidas, sino que también abrió camino para que otras mujeres se sintieran con el derecho y la fuerza de ocupar ese lugar. Para Marien, ese instante simbolizó una ruptura con el pasado y una afirmación poderosa del papel de las mujeres en la continuidad y evolución de la bomba.\n"
             }
           ]
         }
@@ -1056,6 +1056,14 @@
         {
           "category": "analysis",
           "tag": "gender"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
         }
       ],
       "uuid": "1864e8aa-799f-4eab-800e-d96d13c2c768"
