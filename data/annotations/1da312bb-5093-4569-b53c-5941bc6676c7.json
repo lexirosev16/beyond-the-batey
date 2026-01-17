@@ -211,9 +211,14 @@
             {
               "text": "Coro",
               "bold": true
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
-              "text": " Los paleros, los paleros, los paleros de boca chica que los (gobierna) Goyo Mangual"
+              "text": "Los paleros, los paleros, los paleros de boca chica que los (gobierna) Goyo Mangual"
             }
           ]
         },
