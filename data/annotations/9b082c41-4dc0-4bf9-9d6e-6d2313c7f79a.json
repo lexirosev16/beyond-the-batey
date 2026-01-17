@@ -206,7 +206,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Son son más divina "
+              "text": "Son, son más divina "
             }
           ]
         },
@@ -218,7 +218,7 @@
               "text": "Versos"
             },
             {
-              "text": "\nMás divina son balancé\nMás divina son balancé"
+              "text": "\nMás divina son balancé\nMás divina son (yo son Laré)\nMás divina son balancé"
             }
           ]
         }
@@ -234,6 +234,10 @@
         },
         {
           "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "sicá",
           "category": "genre"
         }
       ],
