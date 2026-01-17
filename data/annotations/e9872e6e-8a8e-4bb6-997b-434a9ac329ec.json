@@ -1695,6 +1695,22 @@
       ],
       "tags": [],
       "uuid": "e8b98a1f-9823-49e2-82fa-9579e55bd49c"
+    },
+    {
+      "start_time": 1345,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se muestra el estudio de producción musical del orador y el software de edición de audio. El hombre canta la siguiente canción, la cual fue interpretada en el Encuentro de Tambores en un año anterior. \"Somos semillas, somos el fruto de la bomba.\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4a5a5829-95b0-463a-baa5-660e7c66cbaa"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
