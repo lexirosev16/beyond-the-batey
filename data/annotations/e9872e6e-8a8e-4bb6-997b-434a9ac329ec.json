@@ -1010,7 +1010,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "All female bomba group playing at a bar in Rio Piedras (Taller Tambuye). "
+              "text": "Esta escena muestra a un grupo de bomba compuesto exclusivamente por mujeres (específicamente el Taller Tambuyé) tocando en un bar (El Refugio) de Río Piedras."
             }
           ]
         }
@@ -1027,6 +1027,10 @@
         {
           "tag": "Marien Torres Lopez",
           "category": "speaker"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
         }
       ],
       "uuid": "b47ffb12-41a9-4f42-93e9-2943f950ee1e"
