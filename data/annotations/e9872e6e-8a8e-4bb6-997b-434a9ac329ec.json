@@ -205,33 +205,6 @@
       "uuid": "01523394-9d40-4eec-a62a-d09f35fec72e"
     },
     {
-      "start_time": 204,
-      "end_time": 224,
-      "annotation": [
-        {
-          "text": "Jesus Cepeda discusses his grandfather Rafael Cepeda. He mentions that he wrote an article for "
-        },
-        {
-          "text": "El Mundo i",
-          "italic": true
-        },
-        {
-          "text": "n regards to cultural preservation."
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Don Rafael Cepeda Atiles",
-          "category": "speaker"
-        },
-        {
-          "tag": "Jesus Cepeda",
-          "category": "speaker"
-        }
-      ],
-      "uuid": "9bc9c377-dd7f-4781-8424-11cccdd63d1d"
-    },
-    {
       "start_time": 222,
       "end_time": 240,
       "annotation": [
