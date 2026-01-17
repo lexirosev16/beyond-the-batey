@@ -1696,6 +1696,47 @@
         }
       ],
       "uuid": "d77a1bf9-83ce-46bb-9530-c51ca03f7901"
+    },
+    {
+      "start_time": 400,
+      "end_time": 412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Música diegética de saxofón y piano suena sobre imágenes de La Fortaleza en el Viejo San Juan. Luego, el documental se desplaza hacia el espacio de bomba dirigido por Marien Torres, donde ella y su clase funcionan como un archivo viviente. Juntos, recuperan la memoria de su arresto en 1999 junto a Norma Salazar. Cuando Marien reinterpreta el momento, los bailadores se mueven a su alrededor para extender y amplificar la memoria a través del movimiento, creando una forma colectiva de coreopolítica. En esta práctica compartida, su grupo encarna simultáneamente a los manifestantes y a las fuerzas de coreopolicing. Algunas bailadoras canalizan la rigidez de la presencia militar estadounidense, con los brazos en forma de rifles, mientras las demás se mueven con la resistencia y la urgencia de las manifestaciones en Vieques. Su clase se convierte tanto en agentes de supresión como en agentes de desafío, revelando la tensión entre control y liberación a través de sus cuerpos. \nLuego, cantan el coro de una canción de bomba con su estribillo. “Ellos han perturbado el nido de hormigas.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "saxophone",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "piano",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "protest"
+        }
+      ],
+      "uuid": "cd7116ea-d983-4f22-ae48-48642809d081"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
