@@ -237,27 +237,6 @@
     },
     {
       "start_time": 222,
-      "end_time": 240,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Jesus Cepeda",
-          "category": "speaker"
-        }
-      ],
-      "uuid": "b6d810cc-c60c-4030-acc8-875ffd527734"
-    },
-    {
-      "start_time": 222,
       "end_time": 256,
       "annotation": [
         {
