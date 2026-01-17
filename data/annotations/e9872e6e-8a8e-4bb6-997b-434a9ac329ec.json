@@ -476,7 +476,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Jesus Cepeda discusses political corruption with regard to the embezzlement of public funds. Visuals display clips of various politicians. Jesus is also pro independence and sovereignty."
+              "text": "Jesús Cepeda habla sobre la corrupción política en relación con el desfalco de fondos públicos. Las imágenes muestran a varios políticos. Además, Jesús se identifica con la postura proindependentista y con la soberanía."
             }
           ]
         }
@@ -485,6 +485,18 @@
         {
           "tag": "Jesus Cepeda",
           "category": "speaker"
+        },
+        {
+          "tag": "corruption",
+          "category": "analysis"
+        },
+        {
+          "tag": "politics",
+          "category": "analysis"
+        },
+        {
+          "tag": "government",
+          "category": "analysis"
         }
       ],
       "uuid": "f36ea407-b2fe-4452-93e2-ad7a1ccd79ac"
