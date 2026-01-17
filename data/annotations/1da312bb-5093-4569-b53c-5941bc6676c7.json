@@ -298,13 +298,13 @@
     },
     {
       "start_time": 1760,
-      "end_time": 1920,
+      "end_time": 1988,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Palo'e bandera\"",
+              "text": "\"Palo'e bandera\" Nellie Lebrón y Paracumbe",
               "bold": true
             }
           ]
@@ -314,6 +314,10 @@
         {
           "tag": "Palo'e bandera",
           "category": "song title"
+        },
+        {
+          "tag": "Nellie LeBrón y Paracumbé",
+          "category": "speaker"
         }
       ],
       "uuid": "0bc0ee35-56f3-430b-b35c-0207284b5117"
