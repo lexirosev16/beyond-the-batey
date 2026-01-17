@@ -522,8 +522,74 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Rulé, Candela\"",
+              "text": "\"Rulé Candela\"",
               "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rulé Candela!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que yo me voy pa' las Carerras"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A bailar la bomba buena"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rulé Candela"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo me voy pa' Carolina"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para casa de mi abuela"
             }
           ]
         }
@@ -532,6 +598,14 @@
         {
           "tag": "Rulé candela",
           "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
         }
       ],
       "uuid": "fe0e736a-2f3d-4570-9a6d-32442352b762"
