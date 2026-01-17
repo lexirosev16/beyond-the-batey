@@ -270,6 +270,31 @@
         }
       ],
       "uuid": "2b9dd69d-5ecf-457f-b7ba-a947584200d1"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unidentified bomba song"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        }
+      ],
+      "uuid": "a768e85b-6c14-4e73-bb58-3e8aa8676dd4"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
