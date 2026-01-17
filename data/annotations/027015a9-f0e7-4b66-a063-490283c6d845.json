@@ -1,1 +1,396 @@
-{"annotations":[{"start_time":645,"end_time":660,"annotation":[{"type":"paragraph","children":[{"text":"Luis Palos Matos introduces Don Rafael Cepeda Atiles."}]}],"tags":[{"tag":"Luis Palo Matos","category":"speaker"}],"uuid":"e0c8b831-4b75-433a-bb2d-0aa0b613c4b5"},{"start_time":688,"end_time":992,"annotation":[{"type":"paragraph","children":[{"text":"\"Anaiso\" Don Rafael Cepeda Atiles","bold":true}]},{"type":"paragraph","children":[{"text":"Coro","bold":true}]},{"type":"paragraph","children":[{"text":"Anaiso "}]},{"type":"paragraph","children":[{"text":"Ay le "}]},{"type":"paragraph","children":[{"text":"Ay he "}]},{"type":"paragraph","children":[{"text":"Anaiso bie"}]},{"type":"paragraph","children":[{"text":"Versos","bold":true}]},{"type":"paragraph","children":[{"text":"Ay anaiso sesá Congolaré"}]},{"type":"paragraph","children":[{"text":"Congrué ay anaiso bie "}]},{"type":"paragraph","children":[{"text":"Iso coco mi Mayaguez"}]},{"type":"paragraph","children":[{"text":"Congrué ay anaiso bie"}]},{"type":"paragraph","children":[{"text":"Ay cuando yo estaba enfermo nadie me vino "}]},{"type":"paragraph","children":[{"text":"A ver Congrué ay anaiso bie "}]},{"type":"paragraph","children":[{"text":"Ay me voy desde Guyama salgo pa "}]},{"type":"paragraph","children":[{"text":"Mayaguez Congrue ay anaiso bie "}]}],"tags":[{"tag":"Anaiso","category":"song title"},{"tag":"yubá","category":"genre"},{"tag":"Don Rafael Cepeda Atiles","category":"speaker"},{"tag":"distortion","category":"environment"}],"uuid":"3adb0894-42b4-4a38-ad57-513fc266efe9"},{"start_time":1018,"end_time":1100,"annotation":[{"type":"paragraph","children":[{"text":"\"La Bomba en Barile\"","bold":true}]}],"tags":[{"tag":"Don Rafael Cepeda Atiles","category":"speaker"}],"uuid":"c7e883ec-18bd-4d6c-9efd-b60e521b577f"},{"start_time":1108,"end_time":1140,"annotation":[{"type":"paragraph","children":[{"text":""}]}],"tags":[{"tag":"Luis Palo Matos","category":"speaker"}],"uuid":"6dd81276-7777-4b8f-a782-432f0a47aa42"},{"start_time":1145,"end_time":1205,"annotation":[{"type":"paragraph","children":[{"text":"\"Otonono barrilé\" Don Rafael Cepeda Atiles","bold":true}]},{"type":"paragraph","children":[{"bold":true,"text":"Coro"}]},{"type":"paragraph","children":[{"text":"Otonono barrilé"}]},{"type":"paragraph","children":[{"text":"Versos","bold":true}]},{"type":"paragraph","children":[{"text":"Otonon viva mué"}]},{"type":"paragraph","children":[{"text":"Otonono baila bien "}]},{"type":"paragraph","children":[{"text":"Mi dada mi dadinué"}]},{"type":"paragraph","children":[{"text":"Otonono barrilé"}]},{"type":"paragraph","children":[{"text":"Pa que toquen mis barriles"}]},{"type":"paragraph","children":[{"text":"Otonono viva mué"}]},{"type":"paragraph","children":[{"text":"Otonono baila bien "}]},{"type":"paragraph","children":[{"text":"Mi dada mi dadinué"}]},{"type":"paragraph","children":[{"text":"Otonono barrilé"}]},{"type":"paragraph","children":[{"text":"Pa que toquen mis barriles"}]},{"type":"paragraph","children":[{"text":""}]}],"tags":[{"tag":"Otonono barrile","category":"song title"},{"tag":"sicá","category":"genre"},{"tag":"bomba","category":"genre"},{"tag":"Don Rafael Cepeda Atiles","category":"speaker"}],"uuid":"0d568a51-c84f-4244-8b4f-3bfc8ef4c34f"},{"start_time":0,"end_time":660,"annotation":[{"type":"paragraph","children":[{"text":""}]}],"tags":[{"tag":"música jibara","category":"genre"},{"tag":"accordion","category":"instrumentation"},{"tag":"pandereta","category":"instrumentation"}],"uuid":"49b7c779-0a13-4b68-abf5-36a13aa0a796"}],"set":"Zafra Fusion Cepeda Part 3_Annotations","event_id":"ccec29bf-dc79-4c78-a244-b623c92c0567","source_id":"6f7abdbe-9cea-43a3-b682-3d82b1df5226"}
+{
+  "annotations": [
+    {
+      "start_time": 645,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Luis Palos Matos introduces Don Rafael Cepeda Atiles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "e0c8b831-4b75-433a-bb2d-0aa0b613c4b5"
+    },
+    {
+      "start_time": 688,
+      "end_time": 992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Anaiso\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anaiso "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay le "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay he "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anaiso bie"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, anaiso sesá Congolaré"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congrué ay anaiso bie "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iso coco mi Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congrué ay, anaiso bie"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, cuando yo estaba enfermo nadie me vino "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A ver Congrué, ay, anaiso bie "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, me voy desde Guyama salgo pa' Mayaguez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Congrue, ay anaiso bie "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Anaiso",
+          "category": "song title"
+        },
+        {
+          "tag": "yubá",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        },
+        {
+          "tag": "distortion",
+          "category": "environment"
+        }
+      ],
+      "uuid": "3adb0894-42b4-4a38-ad57-513fc266efe9"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La Bomba en Barile\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "c7e883ec-18bd-4d6c-9efd-b60e521b577f"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Luis Palo Matos",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "6dd81276-7777-4b8f-a782-432f0a47aa42"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Otonono barrilé\" Don Rafael Cepeda Atiles",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otonono barrilé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otonon viva mué"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otonono baila bien "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi dada mi dadinué"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otonono barrilé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pa que toquen mis barriles"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otonono viva mué"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otonono baila bien "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi dada mi dadinué"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otonono barrilé"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pa que toquen mis barriles"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Otonono barrile",
+          "category": "song title"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "tag": "Don Rafael Cepeda Atiles",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "0d568a51-c84f-4244-8b4f-3bfc8ef4c34f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "música jibara",
+          "category": "genre"
+        },
+        {
+          "tag": "accordion",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "pandereta",
+          "category": "instrumentation"
+        }
+      ],
+      "uuid": "49b7c779-0a13-4b68-abf5-36a13aa0a796"
+    }
+  ],
+  "set": "Zafra Fusion Cepeda Part 3_Annotations",
+  "event_id": "ccec29bf-dc79-4c78-a244-b623c92c0567",
+  "source_id": "6f7abdbe-9cea-43a3-b682-3d82b1df5226"
+}
