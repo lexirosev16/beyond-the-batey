@@ -101,7 +101,7 @@
               "text": "Coro: "
             },
             {
-              "text": "Liberté, Liberté!"
+              "text": "Liberté, liberté!"
             }
           ]
         },
@@ -118,8 +118,7 @@
           "type": "paragraph",
           "children": [
             {
-              "bold": true,
-              "text": ""
+              "text": "Ay, liberté, liberté!"
             }
           ]
         },
@@ -127,7 +126,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "Ay, Dios mio, que corté!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, Dios mio, que corté!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eh, que corté"
             }
           ]
         }
@@ -140,6 +155,10 @@
         {
           "category": "analysis",
           "tag": "women"
+        },
+        {
+          "tag": "holandés",
+          "category": "genre"
         }
       ],
       "uuid": "520d35ab-4175-4c88-ab23-10178919b117"
