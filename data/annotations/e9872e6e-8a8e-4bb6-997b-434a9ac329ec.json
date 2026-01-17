@@ -619,7 +619,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Marien discusses the lack of self-governance in Puerto Rico. She also discusses how motherhood has encouraged her to fight for freedom. "
+              "text": "Marien habla sobre la falta de autogobernanza en Puerto Rico. Además, comparte cómo sus experiencias como madre la han motivado a luchar por la libertad."
             }
           ]
         }
@@ -643,6 +643,14 @@
         },
         {
           "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "freedom"
+        },
+        {
+          "tag": "government",
           "category": "analysis"
         }
       ],
