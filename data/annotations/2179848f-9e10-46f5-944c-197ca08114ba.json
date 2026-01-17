@@ -1659,12 +1659,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Chickens their baby chicks appear on screen to close. The final visual alludes to hope, as their presence was discussed by Marien Torres earlier in the film as a story of resistance during times of great suffering."
+              "text": "Chickens and their baby chicks appear on screen to close. The final visual alludes to hope, as their presence was discussed by Marien Torres earlier in the film as a story of resistance during times of great suffering."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        }
+      ],
       "uuid": "051f9478-8978-461e-a810-eec503b6e493"
     }
   ],
