@@ -150,6 +150,14 @@
         {
           "tag": "Maria Luisa",
           "category": "song title"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
         }
       ],
       "uuid": "3665b3de-9e27-41da-aa14-4fd6b2c1e67b"
