@@ -743,7 +743,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "More diegetic saxophone and piano music is played accompanying images of urban life (cars ruins of buildings Puerto Rican flags and store fronts a chicken and baby chics)."
+              "text": "Continúa sonando música diegética de saxofón y piano, acompañando imágenes de la vida urbana (automóviles, ruinas de edificios, banderas de Puerto Rico, fachadas de tiendas, una gallina y polluelos)."
             }
           ]
         }
@@ -760,6 +760,10 @@
         {
           "tag": "diegetic",
           "category": "instrumentation"
+        },
+        {
+          "tag": "poverty",
+          "category": "analysis"
         }
       ],
       "uuid": "3ea9bd28-4106-4bdb-a078-1a3f4d26db86"
