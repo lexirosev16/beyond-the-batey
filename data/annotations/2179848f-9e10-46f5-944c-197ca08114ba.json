@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marien sings \"le lo lai\" and chicken sounds are heard. Le lo lai is a common musical interjection present in Puerto Rican traditional music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "diegetic",
+          "category": "instrumentation"
+        },
+        {
+          "tag": "Marien Torres Lopez",
+          "category": "speaker"
+        }
+      ],
+      "uuid": "76a012cc-52d2-41a1-84cc-c82a50a7a84b"
+    }
+  ],
   "event_id": "7afdd75d-a526-4971-97c3-8ee7f60f3abd",
   "set": "Resistimos_Annotations_English",
   "source_id": "ff4c447c-ff77-40cb-a5e7-da332dafa47f"
