@@ -321,6 +321,41 @@
         }
       ],
       "uuid": "0bc0ee35-56f3-430b-b35c-0207284b5117"
+    },
+    {
+      "start_time": 1995,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"aaaaaa\" ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "80b133ae-3bdb-41b7-907c-979c137ddad8"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
