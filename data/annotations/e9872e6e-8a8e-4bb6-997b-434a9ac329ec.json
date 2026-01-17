@@ -1228,18 +1228,27 @@
     },
     {
       "start_time": 2592,
-      "end_time": 0,
+      "end_time": 2602,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Generational changes. The new generation has it a little easier than the last. If they did not teach, they knew it would not continue. Themes include sustainability and musical endangerment.\n\n"
+              "text": "Esta sección aborda los cambios generacionales dentro de la práctica de la bomba. Se reconoce que la nueva generación lo tiene un poco más fácil que la anterior, gracias al trabajo arduo de quienes vinieron antes. Los mayores sabían que, si no enseñaban, la tradición no sobreviviría. Los temas de sostenibilidad cultural y la amenaza de la desaparición musical están presentes a lo largo del segmento. \n\n\n\n\n"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "analysis",
+          "tag": "sustainability"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
       "uuid": "5f1d926a-d44c-4935-bf20-049988294591"
     },
     {
