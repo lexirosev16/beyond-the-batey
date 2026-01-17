@@ -204,7 +204,7 @@
               "bold": true
             },
             {
-              "text": " Los paleros, los paleros, los paleros de boca chica que los gobierna Goyo Mangual"
+              "text": " Los paleros, los paleros, los paleros de boca chica que los (gobierna) Goyo Mangual"
             }
           ]
         },
@@ -221,7 +221,31 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Voy pa' la central Mercedita, pero la cana voy a emburrar, con las paleros de boca chica que los gobierna Goyo Mangual"
+              "text": "Que rico, y que bueno que los paleros de boca chica que los (gobierna) Goyo Mangual"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voy pa' la central Mercedita, pero la cana voy a emburrar, con las paleros de boca chica que los gobierna Goyo Mangual. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cojo el machete alla en Boca Chica, pero trabajo voy a llevar, con las paleros de boca chica que (gobierna) Goyo Mangual. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hasta la bomba de Loiza. "
             }
           ]
         },
