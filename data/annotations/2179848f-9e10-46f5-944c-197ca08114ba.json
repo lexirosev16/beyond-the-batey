@@ -115,6 +115,22 @@
         }
       ],
       "uuid": "c873dbe8-9864-415a-8727-948c20b84e4b"
+    },
+    {
+      "start_time": 169,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visuals of the ocean."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56e91165-1e32-4527-9c2c-3c5314f06f22"
     }
   ],
   "event_id": "7afdd75d-a526-4971-97c3-8ee7f60f3abd",
