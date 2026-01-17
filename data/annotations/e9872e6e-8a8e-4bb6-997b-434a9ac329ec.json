@@ -106,6 +106,10 @@
         {
           "category": "song title",
           "tag": "Bambulaé sea alla"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "36c40780-7b6e-43a8-bfb4-3457ee3cfec9"
