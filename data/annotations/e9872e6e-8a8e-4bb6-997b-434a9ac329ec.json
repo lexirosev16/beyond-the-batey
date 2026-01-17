@@ -857,13 +857,13 @@
     },
     {
       "start_time": 1938,
-      "end_time": 0,
+      "end_time": 1948,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Marrien Torres discusses how she had to make changes to her quality of living to continue paying for her daughter's education and to continue paying her bomba instructors."
+              "text": "Marien Torres comenta que tuvo que hacer cambios en su calidad de vida para poder seguir pagando la educación de su hija y continuar remunerando a sus maestras de bomba."
             }
           ]
         }
@@ -872,6 +872,10 @@
         {
           "tag": "poverty",
           "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "sustainability"
         }
       ],
       "uuid": "8b5bb4f6-7734-42f9-8a78-0dd21027386f"
