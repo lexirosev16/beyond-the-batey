@@ -210,22 +210,6 @@
       "uuid": "266e20fe-3265-4ee7-86d5-fa8e38d98b47"
     },
     {
-      "start_time": 169,
-      "end_time": 170,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Visuales del océano.\n\n"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "61a9fa07-f60e-4314-b7cb-558b77845ee4"
-    },
-    {
       "start_time": 188,
       "end_time": 200,
       "annotation": [
