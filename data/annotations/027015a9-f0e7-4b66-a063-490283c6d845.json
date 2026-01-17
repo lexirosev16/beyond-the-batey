@@ -55,7 +55,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay le "
+              "text": "Versos",
+              "bold": true
             }
           ]
         },
@@ -63,7 +64,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay he "
+              "text": "Ay, le "
             }
           ]
         },
@@ -71,7 +72,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Anaiso bie"
+              "text": "Ay, he "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anaiso, bie"
             }
           ]
         },
@@ -96,7 +105,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Congrué ay anaiso bie "
+              "text": "Congrué ay, anaiso bie "
             }
           ]
         },
@@ -128,7 +137,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "A ver Congrué, ay, anaiso bie "
+              "text": "A ver Congrué ay, anaiso bie "
             }
           ]
         },
