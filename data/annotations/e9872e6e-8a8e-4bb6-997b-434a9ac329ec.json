@@ -1333,37 +1333,6 @@
       "uuid": "40fbcec7-5363-412e-a802-d356ebf4e6eb"
     },
     {
-      "start_time": 3261,
-      "end_time": 3280,
-      "annotation": [
-        {
-          "text": "\"Yo Bailare\" performed by the Delegation de Loiza",
-          "bold": true
-        },
-        {
-          "text": "\n"
-        },
-        {
-          "text": "Coro ",
-          "bold": true
-        },
-        {
-          "text": "\nYo bailaré\nYo bailaré \nBaile esa bomba "
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Delegación de Loíza",
-          "category": "delegation"
-        },
-        {
-          "category": "analysis",
-          "tag": "Loiza"
-        }
-      ],
-      "uuid": "48c22573-fcbf-444f-84f3-8929a37e1c79"
-    },
-    {
       "start_time": 3400,
       "end_time": 3443,
       "annotation": [
