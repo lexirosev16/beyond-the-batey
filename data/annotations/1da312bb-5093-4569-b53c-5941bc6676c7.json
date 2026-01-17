@@ -338,37 +338,28 @@
     },
     {
       "start_time": 1995,
-      "end_time": 0,
+      "end_time": 2220,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "\"aaaaaa\" ",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Coro",
-              "bold": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Versos",
+              "text": "Unidentified bomba song",
               "bold": true
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        }
+      ],
       "uuid": "80b133ae-3bdb-41b7-907c-979c137ddad8"
     }
   ],
