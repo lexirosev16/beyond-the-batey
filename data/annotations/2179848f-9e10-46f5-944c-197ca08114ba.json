@@ -33,12 +33,46 @@
           "type": "paragraph",
           "children": [
             {
-              "text": ""
+              "text": "“Bambulaé over there”",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            },
+            {
+              "text": "  \nBambulaé over there"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Verses",
+              "bold": true
+            },
+            {
+              "text": "  \nBambulaé over there, Bambulaé over there\nSesa just for you\nIt will be over there. \n(Bambulaé does not have a direct translation)"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "song title",
+          "tag": "Bambulaé sea alla"
+        }
+      ],
       "uuid": "dbc49435-b0e7-49e0-a743-26014fa4001c"
     }
   ],
