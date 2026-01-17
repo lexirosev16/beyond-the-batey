@@ -1641,6 +1641,26 @@
         }
       ],
       "uuid": "e08c58a2-a466-4800-9dc8-68c6dd4f969b"
+    },
+    {
+      "start_time": 3076,
+      "end_time": 3090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Estoy llamado\".",
+              "bold": true
+            },
+            {
+              "text": " Interpretada por la Delegación de las Carolinas"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c934f948-6160-4610-9fe9-91d5e28fd005"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
