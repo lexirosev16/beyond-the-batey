@@ -1606,7 +1606,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Estoy llamando",
+          "category": "song title"
+        }
+      ],
       "uuid": "c934f948-6160-4610-9fe9-91d5e28fd005"
     }
   ],
