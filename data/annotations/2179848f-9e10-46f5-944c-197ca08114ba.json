@@ -74,6 +74,47 @@
         }
       ],
       "uuid": "dbc49435-b0e7-49e0-a743-26014fa4001c"
+    },
+    {
+      "start_time": 60,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Maria Luisa\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chorus",
+              "bold": true
+            },
+            {
+              "text": "\nMaria Luisa, don't go!\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Luisa",
+          "category": "song title"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        }
+      ],
+      "uuid": "c873dbe8-9864-415a-8727-948c20b84e4b"
     }
   ],
   "event_id": "7afdd75d-a526-4971-97c3-8ee7f60f3abd",
