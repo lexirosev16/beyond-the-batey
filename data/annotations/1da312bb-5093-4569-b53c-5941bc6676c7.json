@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "f9ee092e-1672-4d18-ba4b-b4e90912b055"
+    },
+    {
+      "start_time": 763,
+      "end_time": 2470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Part 1: Encuentro de Cantaoras (Professional)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6b1efb62-ba95-42df-a918-459b3496da86"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
