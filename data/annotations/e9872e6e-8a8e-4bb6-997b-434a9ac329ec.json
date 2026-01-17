@@ -1546,12 +1546,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Chickens their baby chicks appear on screen to close. The final visual alludes to hope, as their presence was discussed by Marien Torres earlier in the film as a story of resistance during times of great suffering."
+              "text": "Gallinas y sus polluelos aparecen en pantalla al final. La imagen final alude a la esperanza, ya que su presencia fue mencionada anteriormente por Marien Torres como una historia de resistencia en tiempos de gran sufrimiento.\n"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        }
+      ],
       "uuid": "5adc6c27-a10b-4b2d-ae22-b0b6b29f8e72"
     },
     {
