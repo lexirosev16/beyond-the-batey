@@ -200,7 +200,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Coro:",
+              "text": "Coro",
               "bold": true
             },
             {
@@ -212,7 +212,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Versos:",
+              "text": "Versos",
               "bold": true
             }
           ]
