@@ -361,6 +361,78 @@
         }
       ],
       "uuid": "80b133ae-3bdb-41b7-907c-979c137ddad8"
+    },
+    {
+      "start_time": 2250,
+      "end_time": 2380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"aaa\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Llega con (estada), con mis ancestros"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Llevamé la falda de mi(s) ancestras."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, triame la maraca y la falda y que voy a cantar!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        },
+        {
+          "tag": "sicá",
+          "category": "genre"
+        }
+      ],
+      "uuid": "59dea9d1-96a0-4d59-9262-5ce42493312c"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
