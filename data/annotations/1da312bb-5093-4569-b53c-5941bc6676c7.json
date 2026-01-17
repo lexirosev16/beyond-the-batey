@@ -295,6 +295,28 @@
         }
       ],
       "uuid": "a768e85b-6c14-4e73-bb58-3e8aa8676dd4"
+    },
+    {
+      "start_time": 1760,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Palo'e bandera\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Palo'e bandera",
+          "category": "song title"
+        }
+      ],
+      "uuid": "0bc0ee35-56f3-430b-b35c-0207284b5117"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
