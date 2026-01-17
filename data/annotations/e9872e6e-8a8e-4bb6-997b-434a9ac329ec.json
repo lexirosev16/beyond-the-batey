@@ -1540,6 +1540,43 @@
         }
       ],
       "uuid": "183c0488-81e1-4ff4-8f63-00be5d4eaa4a"
+    },
+    {
+      "start_time": 2078,
+      "end_time": 2099,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Durante las protestas en Puerto Rico, se alzan voces que denuncian los bajos salarios y las condiciones económicas precarias que enfrentan muchas personas en la isla. Entre los cánticos que resuenan en las calles, uno se destaca por su fuerza y claridad. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“¡No da para vivir!”  \n“¡Se siente, se siente, la revolución está presente!”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "analysis",
+          "tag": "protest"
+        },
+        {
+          "tag": "poverty",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "002134c0-81c8-4075-98b7-1dee442839be"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
