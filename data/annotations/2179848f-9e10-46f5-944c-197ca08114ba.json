@@ -161,31 +161,6 @@
       "uuid": "c1bf2f0a-f897-4e63-b309-ecf74dd253f4"
     },
     {
-      "start_time": 0,
-      "end_time": 6,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Marien canta “le lo lai” y podríamos oír los sonidos de los gallos. “Le lo lai” es una interjección musical común en la música puertorriqueña tradicional."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Marien Torres Lopez",
-          "category": "speaker"
-        },
-        {
-          "tag": "diegetic",
-          "category": "instrumentation"
-        }
-      ],
-      "uuid": "9ab6bbc0-0d61-4534-b984-eab0a938fdee"
-    },
-    {
       "start_time": 21,
       "end_time": 119,
       "annotation": [
