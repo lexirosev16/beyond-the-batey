@@ -444,45 +444,6 @@
       "uuid": "3182e8aa-2581-457c-8280-24f46ae5a0fa"
     },
     {
-      "start_time": 400,
-      "end_time": 412,
-      "annotation": [
-        {
-          "text": "Diegetic saxophone music plays over images of La Fortaleza in Viejo San Juan. The documentary then shifts into the bomba space led by Marien Torres, where she and her class function as a single embodied archive. Together, they revisit her memory of being arrested in 1999 alongside Normal Salazar. As Marien re-enacts the moment, the dancers around her extend and amplify the memory through movement, creating a collective form of choreopolitics."
-        },
-        {
-          "type": "line-break",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": "In this shared practice, the group simultaneously embodies protesters and choreopolicing forces. Some dancers channel the rigidity of U.S. military presence, their arms shaped like rifles, while others move with the resistance and urgency of the Vieques demonstrators. The class becomes both the agents of suppression and the agents of defiance, revealing the tension between control and liberation through their bodies.\n“Ellos han perturbado el nido de hormigas.”"
-        }
-      ],
-      "tags": [
-        {
-          "tag": "saxophone",
-          "category": "instrumentation"
-        },
-        {
-          "tag": "resistance",
-          "category": "analysis"
-        },
-        {
-          "tag": "diegetic",
-          "category": "instrumentation"
-        },
-        {
-          "tag": "cultural memory",
-          "category": "analysis"
-        }
-      ],
-      "uuid": "17a4b4fc-59bd-405d-b994-4c25292d11c7"
-    },
-    {
       "start_time": 541,
       "end_time": 569,
       "annotation": [
