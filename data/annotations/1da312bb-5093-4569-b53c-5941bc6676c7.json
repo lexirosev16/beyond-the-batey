@@ -79,6 +79,32 @@
       ],
       "tags": [],
       "uuid": "52855383-d31d-408c-8fbf-11d5c8261d77"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Liberté\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        }
+      ],
+      "uuid": "520d35ab-4175-4c88-ab23-10178919b117"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
