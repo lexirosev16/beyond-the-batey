@@ -513,6 +513,28 @@
         }
       ],
       "uuid": "a3cd96fa-4071-4b2c-8479-05472d4710c2"
+    },
+    {
+      "start_time": 2756,
+      "end_time": 2820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Rulé, Candela\"",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rulé candela",
+          "category": "song title"
+        }
+      ],
+      "uuid": "fe0e736a-2f3d-4570-9a6d-32442352b762"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
