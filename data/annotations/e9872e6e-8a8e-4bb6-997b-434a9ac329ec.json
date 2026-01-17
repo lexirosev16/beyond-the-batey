@@ -888,7 +888,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "A man discusses the economic situation in Puerto Rico with regard to Puerto Ricos debt to the US."
+              "text": "El orador comenta sobre la situación económica de Puerto Rico en relación con la deuda del país con Estados Unidos.\n"
             }
           ]
         }
@@ -896,6 +896,14 @@
       "tags": [
         {
           "tag": "corruption",
+          "category": "analysis"
+        },
+        {
+          "tag": "government",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
           "category": "analysis"
         }
       ],
