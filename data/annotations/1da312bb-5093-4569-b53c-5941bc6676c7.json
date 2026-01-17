@@ -88,7 +88,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Liberté\"",
+              "text": "\"Liberté\". Composed by Félix Alduén (Mayaguez)",
               "bold": true
             }
           ]
@@ -126,7 +126,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay, Dios mio, que corté!"
+              "text": "Ay, Dios mio, que coche!"
             }
           ]
         },
@@ -134,7 +134,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ay, Dios mio, que corté!"
+              "text": "Ay, Dios mio, que coche!"
             }
           ]
         },
@@ -142,7 +142,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Eh, que corté"
+              "text": "Eh, que coche!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, Dios que coche!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Liberté, liberté"
             }
           ]
         }
@@ -159,6 +175,10 @@
         {
           "tag": "holandés",
           "category": "genre"
+        },
+        {
+          "tag": "Félix Alduén",
+          "category": "speaker"
         }
       ],
       "uuid": "520d35ab-4175-4c88-ab23-10178919b117"
