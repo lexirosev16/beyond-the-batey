@@ -414,6 +414,14 @@
               "text": "Boru cana"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible)"
+            }
+          ]
         }
       ],
       "tags": [
@@ -432,6 +440,10 @@
         {
           "tag": "Don Rafael Cepeda Atiles",
           "category": "speaker"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
         }
       ],
       "uuid": "f58ad643-19d1-491b-b712-bdaba29f8805"
