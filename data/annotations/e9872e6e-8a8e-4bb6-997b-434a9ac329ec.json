@@ -426,7 +426,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Visuals display Rio Piedras where Marien's ensemble Taller Tambuye practices and performs. Marien Torres discusses joining the bomba ensemble Plenibom in college directed by Norma Salazar and being arrested for civil disobedience in 1999.\n\n"
+              "text": "Los visuales muestran Río Piedras, donde el conjunto de Marien (Taller Tambuyé) practica y se presenta. Marien Torres habla sobre haberse unido al grupo de bomba Plenibom durante sus estudios de bachillerato, el cual era dirigido por Norma Salazar, y sobre su arresto por desobediencia civil en 1999."
             }
           ]
         }
@@ -435,6 +435,10 @@
         {
           "tag": "Marien Torres Lopez",
           "category": "speaker"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
         }
       ],
       "uuid": "3182e8aa-2581-457c-8280-24f46ae5a0fa"
