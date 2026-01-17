@@ -449,6 +449,70 @@
         }
       ],
       "uuid": "59dea9d1-96a0-4d59-9262-5ce42493312c"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"(Tonto), llegaré\"",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Coro"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Tonto) llegaré, (tonto) llegaré!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Tonto) de Loiza, (tonto) llegaré"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Versos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "analysis",
+          "tag": "Loiza"
+        },
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "women"
+        }
+      ],
+      "uuid": "a3cd96fa-4071-4b2c-8479-05472d4710c2"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
