@@ -776,7 +776,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Marien is seen dancing bomba in her school (Taller Tambuye). She is demonstrating both masculine and feminine bomba movements."
+              "text": "Marien está bailando bomba en su escuela, Taller Tambuyé. Ella está demostrando movimientos masculinos y femeninos."
             }
           ]
         }
@@ -789,6 +789,10 @@
         {
           "category": "analysis",
           "tag": "gender"
+        },
+        {
+          "tag": "Taller Tambuye",
+          "category": "speaker"
         }
       ],
       "uuid": "6be6b9c1-3af4-4297-8c24-e20e6daf8208"
