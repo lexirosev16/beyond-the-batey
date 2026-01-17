@@ -47,6 +47,22 @@
       ],
       "tags": [],
       "uuid": "6b1efb62-ba95-42df-a918-459b3496da86"
+    },
+    {
+      "start_time": 2471,
+      "end_time": 3033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Open Batey"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1cb328e2-dce6-4abc-bf04-4925ca81ac96"
     }
   ],
   "set": "Primer Encuentro de Cantaoras_Annotations_Spanish",
