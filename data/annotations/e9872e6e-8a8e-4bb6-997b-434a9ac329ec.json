@@ -1636,6 +1636,42 @@
         }
       ],
       "uuid": "023a27cf-c9f0-4ecb-95af-7d889a21d51a"
+    },
+    {
+      "start_time": 3261,
+      "end_time": 3280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Yo Bailaré”. ",
+              "bold": true
+            },
+            {
+              "text": " Interpretada por la Delegación de Loíza\n"
+            },
+            {
+              "text": "Coro:",
+              "bold": true
+            },
+            {
+              "text": "  \nYo bailaré  \nYo bailaré  \nBaile esa bomba"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "song title",
+          "tag": "Yo bailaré"
+        },
+        {
+          "tag": "Delegación de Loíza",
+          "category": "delegation"
+        }
+      ],
+      "uuid": "e08c58a2-a466-4800-9dc8-68c6dd4f969b"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
