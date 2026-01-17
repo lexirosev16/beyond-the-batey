@@ -1698,6 +1698,22 @@
         }
       ],
       "uuid": "cd7116ea-d983-4f22-ae48-48642809d081"
+    },
+    {
+      "start_time": 570,
+      "end_time": 587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Imágenes del festival llamado “La SanSe”, que se celebra desde el tercer jueves hasta el tercer domingo de enero. Es un festival anual en honor al santo patrón San Sebastián. Luego, se interpreta una canción de bomba titulada “El Sombrero de Yare”."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e8b98a1f-9823-49e2-82fa-9579e55bd49c"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
