@@ -1656,6 +1656,46 @@
         }
       ],
       "uuid": "29962b2c-8dac-423b-823c-ef14a0c77f06"
+    },
+    {
+      "start_time": 3310,
+      "end_time": 3340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Canción de bomba no identificada  "
+            },
+            {
+              "bold": true,
+              "text": "\nCoro\n"
+            },
+            {
+              "text": "Los cimarrones"
+            },
+            {
+              "bold": true,
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bomba",
+          "category": "genre"
+        },
+        {
+          "category": "analysis",
+          "tag": "freedom"
+        },
+        {
+          "tag": "slavery",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "023a27cf-c9f0-4ecb-95af-7d889a21d51a"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
