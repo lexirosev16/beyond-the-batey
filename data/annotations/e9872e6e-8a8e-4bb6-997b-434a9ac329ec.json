@@ -1584,6 +1584,78 @@
       ],
       "tags": [],
       "uuid": "4a5a5829-95b0-463a-baa5-660e7c66cbaa"
+    },
+    {
+      "start_time": 3546,
+      "end_time": 3655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La bomba fue utilizada como forma de protesta durante las manifestaciones del 2019. Se muestran fragmentos de música de protesta, mientras se escuchan silbatos de la policía de fondo."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“"
+            },
+            {
+              "text": "Candela",
+              "bold": true
+            },
+            {
+              "text": "” "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            },
+            {
+              "text": "\nCandela  \nCandela le amo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Candela",
+          "category": "song title"
+        },
+        {
+          "tag": "resistance",
+          "category": "analysis"
+        },
+        {
+          "category": "analysis",
+          "tag": "protest"
+        },
+        {
+          "tag": "Blackness",
+          "category": "analysis"
+        },
+        {
+          "tag": "oppression",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "29962b2c-8dac-423b-823c-ef14a0c77f06"
     }
   ],
   "set": "Resistimos_Annotations_Spanish",
